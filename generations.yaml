@@ -1,20 +1,43 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Everest"
+
 generations:
-  - name: "First Generation"
+  - name: "First Generation (2003-2006)"
     start_year: 2003
-    end_year: 2009
-    description: "The original Ford Everest was a mid-size SUV based on the Mazda-derived Ford Ranger pickup truck platform. Developed primarily for Asian markets, it featured traditional body-on-frame construction with rugged styling and genuine off-road capability. Offering three rows of seating for up to seven passengers, it combined utility with family-friendly features. Powertrain options varied by market but typically included 2.5L and 3.0L diesel engines and a 2.6L petrol engine, paired with manual or automatic transmissions and part-time four-wheel drive. The interior was basic but functional, prioritizing durability over luxury. This generation established the Everest as a popular option in emerging markets where its combination of ruggedness, practicality, and affordability was highly valued."
+    end_year: 2006
+    description: "Ford unveiled the first-generation Everest in March 2003 at the Bangkok International Motor Show. The original Ford Everest was a mid-size SUV based on the Mazda-derived Ford Ranger pickup truck platform, developed primarily for Asian markets. It featured traditional body-on-frame construction with rugged styling and genuine off-road capability. Offering three rows of seating for up to seven passengers, it combined utility with family-friendly features. Powertrain options included a 2.6L petrol engine (Mazda G6E I4) and diesel options: 2.5L WL Duratorq I4, 2.5L WL-T Duratorq turbo I4, and 3.0L VS Duratorq turbo I4, paired with 5-speed manual, 4-speed, or 5-speed automatic transmissions and part-time four-wheel drive. The interior was basic but functional, prioritizing durability over luxury."
+
+  - name: "First Generation (2007 Facelift)"
+    start_year: 2007
+    end_year: 2008
+    description: "In November 2006, the Everest underwent a major facelift that saw the whole front and side body panels replaced to match the redesign of its base vehicle, the Ranger. The changes included an updated front fascia, new transmission, and improved engine. The redesign featured the new 5-speed automatic transmission with BorgWarner transfer case, and Active-Shift-on-the-Fly function (4x4 only). Despite the massive changes, it retained most mechanical parts along with its U268 project code. The visual updates included new headlights, grille, and bumpers while maintaining the basic platform."
+
+  - name: "First Generation (2009 Facelift)"
+    start_year: 2009
+    end_year: 2011
+    description: "A second facelift was introduced in 2009. While the changes were less prominent than the previous facelift, the Everest now featured a rounder fascia than its predecessor, similar to the facelifted Ranger. The changes were achieved by replacing the front fender assembly, front hood, front headlights, front grille, and front bumper, along with larger 18-inch polished alloy wheels, a redesigned tailgate, and new tail lamps. The platform remained unchanged with its U268 project code."
+
+  - name: "First Generation (2012-2015)"
+    start_year: 2012
+    end_year: 2015
+    description: "Another smaller update was introduced in 2012, featuring a revised front grille. In 2013, the Everest received a final facelift, featuring a redesigned front bumper in line with some other global Ford cars. The first generation continued to serve Asian markets including Southeast Asia, India, Middle East, and Central America, competing against vehicles like the Toyota Fortuner and Mitsubishi Pajero Sport in the popular truck-based SUV segment. The final years of this generation (2012-2015) represented the end of the long-running U268/UR platform."
 
   - name: "Second Generation"
-    start_year: 2009
-    end_year: 2015
-    description: "The second-generation Everest maintained its Ranger pickup underpinnings but with significant refinements to ride quality and interior comfort. The exterior featured more modern styling while preserving the rugged SUV character. Engine options evolved to include more efficient and powerful diesel units, including a 2.5L and 3.0L Duratorq TDCi, with improved automatic transmission options. The interior saw notable improvements in design, material quality, and features, including available leather seating, improved climate control, and enhanced entertainment systems. Safety features were expanded to include electronic stability control and multiple airbags on higher trims. This generation continued the Everest's focus on markets in Asia-Pacific, Middle East, and Central America, where it competed against vehicles like the Toyota Fortuner and Mitsubishi Pajero Sport in the popular truck-based SUV segment."
-
-  - name: "Third Generation"
     start_year: 2015
     end_year: 2022
-    description: "The third-generation Everest represented a significant advancement while maintaining its Ranger-based underpinnings. The exterior featured more sophisticated styling with a prominent trapezoidal grille and complex surface detailing. Engineered for global markets (though still not sold in North America), it offered significantly improved refinement while maintaining serious off-road capability. Powertrain options centered around Ford's Duratorq diesel engines, including a 2.2L four-cylinder and a 3.2L five-cylinder, with some markets later receiving the 2.0L EcoBlue bi-turbo diesel. The interior marked a major step forward with a contemporary design, improved materials, and advanced technology including SYNC infotainment systems. Safety features expanded to include adaptive cruise control, lane-keeping aid, and automatic emergency braking on higher trims. This generation successfully broadened the Everest's appeal beyond purely utilitarian use, attracting customers seeking a combination of off-road capability, practicality, and increasingly car-like refinement."
+    description: "The second-generation Everest first previewed at a 'Go Further' future product event in Sydney, Australia as a near-production concept vehicle in August 2013, with the production version unveiled in November 2014. Based on the Ford Ranger T6, this generation represented a significant advancement while maintaining its Ranger-based underpinnings. The exterior featured more sophisticated styling with rounder proportions and complex surface detailing. It was developed by Ford Australia and designated U375 (development code) and UA series (model code in Australia). Powertrain options included 2.0L EcoBoost and 2.3L EcoBoost petrol engines, and diesel options: 2.0L EcoBlue turbo, 2.0L EcoBlue twin-turbo, 2.2L Duratorq turbo, and 3.2L Duratorq turbo. The interior marked a step forward with contemporary design and improved technology including SYNC infotainment systems."
 
-  - name: "Fourth Generation"
+  - name: "Second Generation (2018 Facelift)"
+    start_year: 2018
+    end_year: 2020
+    description: "This model received a facelift in May 2018, coinciding with the Ranger facelift. The facelift included design tweaks, equipment list updates, a new 2.0-litre bi-turbo diesel engine, and a 10-speed automatic gearbox. Other changes included Autonomous Emergency Braking, a standard kick-activated power liftgate, and new alloy wheels. Interior changes featured more soft touch materials with an ebony dark colour scheme. Safety features were expanded to include adaptive cruise control and lane-keeping aid."
+
+  - name: "Second Generation (2021 Facelift)"
+    start_year: 2021
+    end_year: 2022
+    description: "Another facelift was released for the 2021 year model in November 2020 in Thailand. This version retained the T6 platform designation (U375/UA) while incorporating further refinements. The Everest continued to serve global markets including Thailand, China, South Africa, India, and Cambodia through various assembly plants. Production and sales of the Endeavour in India ended in 2021 due to the closure of all Ford manufacturing plants in the country."
+
+  - name: "Third Generation"
     start_year: 2022
     end_year: null
-    description: "The current Everest is based on the latest T6.2 platform shared with the newest Ranger. The exterior features a bold, upright design with C-clamp headlights and a strong shoulder line. Powertrain options vary by market but typically include a 2.0L EcoBlue single and bi-turbo diesel options, plus a 3.0L V6 turbo diesel in higher-spec models. Some markets also offer a 2.3L EcoBoost petrol engine. The interior represents the most significant advancement in the model's history, featuring a digital instrument cluster and portrait-oriented touchscreen (up to 12 inches) running SYNC 4A. Available features include matrix LED headlights, a 360-degree camera system, and Ford's advanced driver assistance systems. Off-road capability remains a priority with available full-time four-wheel drive, an electronic locking rear differential, and specific off-road drive modes. This generation aims to bridge the gap between work-oriented SUVs and premium offerings, with higher trim levels featuring luxury appointments including leather upholstery, ambient lighting, and premium audio systems."
+    description: "The third-generation Everest was revealed on 1 March 2022, developed under the U704 development code and known as the UB series in Australia. Based on the Ford Ranger P703, this generation represents the newest platform for the Everest. It shares most front end components with the P703 Ranger while maintaining increased dimensions with 50mm additional wheel track and wheelbase. The exterior features a bold, upright design with updated styling. Powertrain options include 2.3L EcoBoost turbo I4, 2.7L EcoBoost twin-turbo V6, 2.0L EcoBlue turbo I4, 2.0L EcoBlue twin-turbo I4, and 3.0L Power Stroke turbo V6 diesel engines. The interior represents a significant advancement featuring digital instrument clusters and modern touchscreen infotainment. Off-road capability remains a priority with available full-time four-wheel drive and electronic locking rear differential. Assembly is centered in Thailand at Rayong."
