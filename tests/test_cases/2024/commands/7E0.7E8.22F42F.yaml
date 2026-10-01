@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    EVEREST_FLI: 5.4902
+  response: 7E80462F42F0E
+- expected_values:
+    EVEREST_FLI: 100
+  response: 7E80462F42FFF

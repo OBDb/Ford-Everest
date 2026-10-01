@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F45C
+test_cases:
+- expected_values:
+    EVEREST_EOT_F45C: 12
+  response: 7E80462F45C34
+- expected_values:
+    EVEREST_EOT_F45C: 116
+  response: 7E80462F45C9C

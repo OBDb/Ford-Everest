@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2205FC
+test_cases:
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_SENS_2_RAW: 19.46875
+  response: 7E8056205FC04DE
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_SENS_2_RAW: 20.0625
+  response: 7E8056205FC0504
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_SENS_2_RAW: 27.96875
+  response: 7E8056205FC06FE
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_SENS_2_RAW: 124.26562
+  response: 7E8056205FC1F11

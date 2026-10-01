@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220301
+test_cases:
+- expected_values:
+    EVEREST_MAP_V: 0.5293
+  response: 7E805620301021E
+- expected_values:
+    EVEREST_MAP_V: 0.61133
+  response: '7E8056203010272'
+- expected_values:
+    EVEREST_MAP_V: 0.62207
+  response: 7E805620301027D
+- expected_values:
+    EVEREST_MAP_V: 0.62988
+  response: '7E8056203010285'
+- expected_values:
+    EVEREST_MAP_V: 0.63184
+  response: '7E8056203010287'
+- expected_values:
+    EVEREST_MAP_V: 0.6377
+  response: 7E805620301028D
+- expected_values:
+    EVEREST_MAP_V: 0.64941
+  response: '7E8056203010299'
+- expected_values:
+    EVEREST_MAP_V: 0.67188
+  response: 7E80562030102B0
+- expected_values:
+    EVEREST_MAP_V: 0.76953
+  response: '7E8056203010314'
+- expected_values:
+    EVEREST_MAP_V: 1.01758
+  response: '7E8056203010412'

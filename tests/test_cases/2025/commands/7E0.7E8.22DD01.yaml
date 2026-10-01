@@ -1,0 +1,62 @@
+command_id: 7E0.7E8.22DD01
+test_cases:
+- expected_values:
+    EVEREST_ODO_7E0: 2163
+  response: 7E80662DD01000873
+- expected_values:
+    EVEREST_ODO_7E0: 2233
+  response: 7E80662DD010008B9
+- expected_values:
+    EVEREST_ODO_7E0: 2163
+  response: |-
+    > 746.74E.22483D
+    NO DATA
+    > 760.768.222B11
+    NO DATA
+    > 726.72E.222818
+    NO DATA
+    > 760.768.222B0C
+    NO DATA
+    > 6F5.6FD.224899
+    CAN ERROR
+    > 720.728.22404C
+    CAN ERROR
+    > 726.72E.222816
+    NO DATA
+    > 726.72E.222817
+    NO DATA
+    > 726.72E.224029
+    NO DATA
+    > 726.72E.22DD01
+    7E80662DD01000873
+- expected_values:
+    EVEREST_ODO_7E0: 2163
+  response: |-
+    > 7DF.221310
+    NO DATA
+    > 760.768.223201
+    NO DATA
+    > 760.768.222B09
+    NO DATA
+    > 726.72E.22402B
+    NO DATA
+    > 726.72E.222813
+    NO DATA
+    > 764.76C.22A224
+    NO DATA
+    > 7C7.2299AB
+    NO DATA
+    > 760.768.222B07
+    NO DATA
+    > 746.74E.224836
+    NO DATA
+    > 726.22C259
+    NO DATA
+    > 720.728.226185
+    CAN ERROR
+    > 726.22C150
+    NO DATA
+    > 746.74E.22483A
+    NO DATA
+    > 760.768.22DD01
+    7E80662DD01000873

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220604
+test_cases:
+- expected_values:
+    EVEREST_PCM_A_C_REFRIG_P: 698
+  response: 7E80562060402BA
+- expected_values:
+    EVEREST_PCM_A_C_REFRIG_P: 715
+  response: 7E80562060402CB
+- expected_values:
+    EVEREST_PCM_A_C_REFRIG_P: 719
+  response: 7E80562060402CF

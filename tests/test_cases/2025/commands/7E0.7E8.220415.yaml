@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.220415
+test_cases:
+- expected_values:
+    EVEREST_PCM_ENG_EOP_RAW: 301
+  response: 7E805620415012D
+- expected_values:
+    EVEREST_PCM_ENG_EOP_RAW: 305
+  response: '7E8056204150131'
+- expected_values:
+    EVEREST_PCM_ENG_EOP_RAW: 308
+  response: '7E8056204150134'
+- expected_values:
+    EVEREST_PCM_ENG_EOP_RAW: 309
+  response: '7E8056204150135'
+- expected_values:
+    EVEREST_PCM_ENG_EOP_RAW: 310
+  response: '7E8056204150136'
+- expected_values:
+    EVEREST_PCM_ENG_EOP_RAW: 311
+  response: '7E8056204150137'
