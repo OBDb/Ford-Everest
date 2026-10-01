@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    EVEREST_PCM_VEH_ODO: 17308.8
+  response: 7E80762F4A60002A420
+- expected_values:
+    EVEREST_PCM_VEH_ODO: 17894.3
+  response: 7E80762F4A60002BAFF
+- expected_values:
+    EVEREST_PCM_VEH_ODO: 17945.6
+  response: 7E80762F4A60002BD00
+- expected_values:
+    EVEREST_PCM_VEH_ODO: 19635.2
+  response: 7E80762F4A60002FF00
+- expected_values:
+    EVEREST_PCM_VEH_ODO: 19676.1
+  response: 7E80762F4A600030099

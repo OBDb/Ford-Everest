@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220324
+test_cases:
+- expected_values:
+    EVEREST_HPFP_V: 0.66471
+  response: '7E8056203240088'
+- expected_values:
+    EVEREST_HPFP_V: 0.6696
+  response: '7E8056203240089'
+- expected_values:
+    EVEREST_HPFP_V: 0.67449
+  response: 7E805620324008A
+- expected_values:
+    EVEREST_HPFP_V: 0.68915
+  response: 7E805620324008D
+- expected_values:
+    EVEREST_HPFP_V: 0.7087
+  response: '7E8056203240091'
+- expected_values:
+    EVEREST_HPFP_V: 1.24145
+  response: 7E80562032400FE
+- expected_values:
+    EVEREST_HPFP_V: 1.32454
+  response: 7E805620324010F
+- expected_values:
+    EVEREST_HPFP_V: 1.47605
+  response: 7E805620324012E
+- expected_values:
+    EVEREST_HPFP_V: 1.59335
+  response: '7E8056203240146'
+- expected_values:
+    EVEREST_HPFP_V: 2.36559
+  response: 7E80562032401E4

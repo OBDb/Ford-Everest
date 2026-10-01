@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    EVEREST_RPM: 0
+  response: 7E80562F40C0000
+- expected_values:
+    EVEREST_RPM: 767.5
+  response: 7E80562F40C0BFE
+- expected_values:
+    EVEREST_RPM: 3440
+  response: 7E80562F40C35C0

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    EVEREST_RUN_TIME: 0
+  response: 7E80562F41F0000
+- expected_values:
+    EVEREST_RUN_TIME: 255
+  response: 7E80562F41F00FF
+- expected_values:
+    EVEREST_RUN_TIME: 7438
+  response: 7E80562F41F1D0E
