@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    EVEREST_ECT: 16.5625
+  response: 7E80562038F0424
+- expected_values:
+    EVEREST_ECT: 28.0625
+  response: 7E80562038F0704
+- expected_values:
+    EVEREST_ECT: 31.96875
+  response: 7E80562038F07FE
+- expected_values:
+    EVEREST_ECT: 100.0625
+  response: 7E80562038F1904

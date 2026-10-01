@@ -1,0 +1,8 @@
+command_id: 726.72E.224027
+test_cases:
+- expected_values:
+    EVEREST_12V_AGE: 0
+  response: '72E056240270000'
+- expected_values:
+    EVEREST_12V_AGE: 3672
+  response: '72E056240270099'

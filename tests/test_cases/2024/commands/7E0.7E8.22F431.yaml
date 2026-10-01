@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    EVEREST_DIST_DTC_CLR: 51
+  response: 7E80562F4310033
+- expected_values:
+    EVEREST_DIST_DTC_CLR: 767
+  response: 7E80562F43102FF
+- expected_values:
+    EVEREST_DIST_DTC_CLR: 768
+  response: 7E80562F4310300
+- expected_values:
+    EVEREST_DIST_DTC_CLR: 8202
+  response: 7E80562F431200A

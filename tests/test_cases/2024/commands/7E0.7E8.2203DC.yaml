@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203DC
+test_cases:
+- expected_values:
+    EVEREST_HPFP_DES: 21420
+  response: 7E8056203DC085E
+- expected_values:
+    EVEREST_HPFP_DES: 25580
+  response: 7E8056203DC09FE
+- expected_values:
+    EVEREST_HPFP_DES: 25600
+  response: 7E8056203DC0A00
+- expected_values:
+    EVEREST_HPFP_DES: 218220
+  response: 7E8056203DC553E
