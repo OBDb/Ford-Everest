@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F45E
+test_cases:
+- expected_values:
+    EVEREST_ENG_FUEL_RATE: 0
+  response: 7E80562F45E0000
+- expected_values:
+    EVEREST_ENG_FUEL_RATE: 0.05
+  response: 7E80562F45E0001
+- expected_values:
+    EVEREST_ENG_FUEL_RATE: 1.7
+  response: 7E80562F45E0022
+- expected_values:
+    EVEREST_ENG_FUEL_RATE: 2.05
+  response: 7E80562F45E0029
+- expected_values:
+    EVEREST_ENG_FUEL_RATE: 2.15
+  response: 7E80562F45E002B
+- expected_values:
+    EVEREST_ENG_FUEL_RATE: 3.85
+  response: 7E80562F45E004D
+- expected_values:
+    EVEREST_ENG_FUEL_RATE: 6.2
+  response: 7E80562F45E007C
+- expected_values:
+    EVEREST_ENG_FUEL_RATE: 7.6
+  response: 7E80562F45E0098

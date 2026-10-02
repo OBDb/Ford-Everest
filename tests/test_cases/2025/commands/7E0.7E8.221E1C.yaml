@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221E1C
+test_cases:
+- expected_values:
+    EVEREST_TOT: 84.875
+  response: 7E805621E1C054E
+- expected_values:
+    EVEREST_TOT: 85.6875
+  response: 7E805621E1C055B
+- expected_values:
+    EVEREST_TOT: 86.125
+  response: 7E805621E1C0562
+- expected_values:
+    EVEREST_TOT: 86.9375
+  response: 7E805621E1C056F
+- expected_values:
+    EVEREST_TOT: 87.5
+  response: 7E805621E1C0578
+- expected_values:
+    EVEREST_TOT: 87.9375
+  response: 7E805621E1C057F
+- expected_values:
+    EVEREST_TOT: 88.375
+  response: 7E805621E1C0586
+- expected_values:
+    EVEREST_TOT: 88.75
+  response: 7E805621E1C058C

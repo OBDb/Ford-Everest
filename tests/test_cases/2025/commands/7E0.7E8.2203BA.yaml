@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2203BA
+test_cases:
+- expected_values:
+    EVEREST_AAT_V: 1.55425
+  response: 7E8056203BA013E
+- expected_values:
+    EVEREST_AAT_V: 1.56891
+  response: 7E8056203BA0141
+- expected_values:
+    EVEREST_AAT_V: 1.57869
+  response: 7E8056203BA0143
+- expected_values:
+    EVEREST_AAT_V: 1.6129
+  response: 7E8056203BA014A
+- expected_values:
+    EVEREST_AAT_V: 1.61779
+  response: 7E8056203BA014B
+- expected_values:
+    EVEREST_AAT_V: 1.62268
+  response: 7E8056203BA014C
