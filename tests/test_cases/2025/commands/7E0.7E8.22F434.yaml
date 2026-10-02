@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    EVEREST_AIR_FUEL_RAT: 14.44462
+  response: 7E80762F4347E4A7FF5
+- expected_values:
+    EVEREST_AIR_FUEL_RAT: 14.55319
+  response: 7E80762F4347F3D7FF8
+- expected_values:
+    EVEREST_AIR_FUEL_RAT: 14.56481
+  response: 7E80762F4347F577FF9
+- expected_values:
+    EVEREST_AIR_FUEL_RAT: 14.64032
+  response: 7E80762F43480007FF9
+- expected_values:
+    EVEREST_AIR_FUEL_RAT: 14.67383
+  response: 7E80762F434804B7FF9
+- expected_values:
+    EVEREST_AIR_FUEL_RAT: 14.72342
+  response: 7E80762F43480BA7FFC
+- expected_values:
+    EVEREST_AIR_FUEL_RAT: 14.74799
+  response: 7E80762F43480F17FFD
+- expected_values:
+    EVEREST_AIR_FUEL_RAT: 14.75871
+  response: 7E80762F43481097FFD
+- expected_values:
+    EVEREST_AIR_FUEL_RAT: 14.8445
+  response: 7E80762F43481C97FFF
+- expected_values:
+    EVEREST_AIR_FUEL_RAT: 14.86818
+  response: 7E80762F43481FE7FFF

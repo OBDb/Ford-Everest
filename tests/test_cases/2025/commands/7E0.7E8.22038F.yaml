@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    EVEREST_ECT: 90.54688
+  response: 7E80562038F16A3
+- expected_values:
+    EVEREST_ECT: 90.5625
+  response: 7E80562038F16A4
+- expected_values:
+    EVEREST_ECT: 90.59375
+  response: 7E80562038F16A6
+- expected_values:
+    EVEREST_ECT: 90.625
+  response: 7E80562038F16A8
+- expected_values:
+    EVEREST_ECT: 90.67188
+  response: 7E80562038F16AB
+- expected_values:
+    EVEREST_ECT: 90.70312
+  response: 7E80562038F16AD
+- expected_values:
+    EVEREST_ECT: 90.71875
+  response: 7E80562038F16AE
+- expected_values:
+    EVEREST_ECT: 90.73438
+  response: 7E80562038F16AF
+- expected_values:
+    EVEREST_ECT: 90.75
+  response: 7E80562038F16B0

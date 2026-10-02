@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22033E
+test_cases:
+- expected_values:
+    EVEREST_TIP_ABS: 13.47406
+  response: 7E80562033E2F92
+- expected_values:
+    EVEREST_TIP_ABS: 13.48734
+  response: 7E80562033E2F9E
