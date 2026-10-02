@@ -154,7 +154,7 @@
   "signals": [
     {"id": "EVEREST_CAR_T", "path": "Engine", "fmt": { "len": 8, "max": 31.875, "div": 8, "unit": "celsius" }, "name": "In car temperature"}
   ]},
-{ "hdr": "760", "rax": "768", "cmd": {"22": "2B00"}, "freq": 3, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "760", "rax": "768", "cmd": {"22": "2B00"}, "freq": 3, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_PARKING_BRAKE", "path": "Control", "fmt": { "len": 1, "max": 1, "unit": "offon" }, "name": "Parking brake state"}
   ]},
@@ -219,7 +219,7 @@
   "signals": [
     {"id": "EVEREST_MAP_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "div": 1024, "unit": "volts" }, "name": "Manifold pressure sensor voltage", "description": "Typically varies from 1 volt at idle to 5 volts during wide open throttle."}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0304"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0304"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_CMD_GEN_V", "path": "Battery", "fmt": { "len": 16, "max": 16, "mul": 0.000488, "unit": "volts" }, "name": "Commanded generator voltage"}
   ]},
@@ -239,7 +239,7 @@
   "signals": [
     {"id": "EVEREST_VCT_EXH_DUTY", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 25, "div": 8192, "unit": "percent" }, "name": "Camshaft solenoid duty cycle, exhaust"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0318"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0318"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_VCT_INT_ACT", "path": "Engine", "fmt": { "len": 16, "max": 2047.93, "min": -2048, "div": 16, "sign": true, "unit": "degrees" }, "name": "Camshaft position, intake actual"}
   ]},
@@ -251,7 +251,7 @@
   "signals": [
     {"id": "EVEREST_VCT_INT_ERR", "path": "Engine", "fmt": { "len": 16, "max": 50, "min": -50, "div": 16, "sign": true, "unit": "degrees" }, "name": "Camshaft position error, intake"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "031B"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "031B"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_VCT_EXH_ERR", "path": "Engine", "fmt": { "len": 16, "max": 50, "div": 16, "unit": "degrees" }, "name": "Camshaft position error, exhaust"}
   ]},
@@ -259,15 +259,15 @@
   "signals": [
     {"id": "EVEREST_HPFP_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "mul": 5, "div": 1023, "unit": "volts" }, "name": "Fuel rail sensor voltage, high pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "032B"}, "freq": 0.25, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "032B"}, "freq": 0.25, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_ACC_POS", "path": "Engine", "fmt": { "len": 8, "max": 100, "div": 2, "unit": "percent" }, "name": "Accelerator position"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0334"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0334"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_PCM_CYL_HEAD_T_CORR", "path": "Engine", "fmt": { "len": 16, "max": 511, "min": -512, "div": 64, "sign": true, "unit": "celsius" }, "name": "Cylinder head temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0338"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0338"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_ETC_TRIM_LRN", "path": "Engine", "fmt": { "len": 16, "max": 63.9, "min": -64, "div": 512, "sign": true, "unit": "degrees" }, "name": "Throttle control trim angle, learned"}
   ]},
@@ -287,7 +287,7 @@
   "signals": [
     {"id": "EVEREST_PCM_MISF_EVENTS_LATEST_CYC", "path": "Engine", "fmt": { "len": 32, "max": 4294967295, "unit": "scalar" }, "name": "Misfire events, latest cycle"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0353"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0353"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_BARO", "path": "Engine", "fmt": { "len": 16, "max": 20, "min": 8, "mul": 615, "div": 16963, "unit": "psi" }, "name": "Barometric pressure"}
   ]},
@@ -295,11 +295,11 @@
   "signals": [
     {"id": "EVEREST_BARO_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "mul": 5, "div": 1023, "unit": "volts" }, "name": "Barometric pressure sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "035F"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "035F"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_RO2_V", "path": "Engine", "fmt": { "len": 16, "max": 1, "div": 1024, "unit": "volts" }, "name": "O2 sensor voltage, rear"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0370"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0370"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_MAP_HIRES", "path": "Engine", "fmt": { "len": 16, "max": 16383.75, "div": 4, "unit": "kilopascal" }, "name": "Manifold absolute pressure, high resolution"}
   ]},
@@ -307,11 +307,11 @@
   "signals": [
     {"id": "EVEREST_GEN_CTRL", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 0.003052, "unit": "percent" }, "name": "Generator control"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0382"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0382"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_PCM_MISF_ACCEL_CYL1_NORM", "path": "Engine", "fmt": { "len": 8, "max": 1.98, "min": -2, "div": 64, "sign": true, "unit": "scalar" }, "name": "Misfire acceleration, cylinder 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0388"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0388"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_PCM_MISF_ACCEL_CYL2_NORM", "path": "Engine", "fmt": { "len": 8, "max": 1.98, "min": -2, "div": 64, "sign": true, "unit": "scalar" }, "name": "Misfire acceleration, cylinder 2"}
   ]},
@@ -319,7 +319,7 @@
   "signals": [
     {"id": "EVEREST_PCM_MISF_ACCEL_CYL3_NORM", "path": "Engine", "fmt": { "len": 8, "max": 1.98, "min": -2, "div": 64, "sign": true, "unit": "scalar" }, "name": "Misfire acceleration, cylinder 3"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "038B"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "038B"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_PCM_MISF_ACCEL_CYL4_NORM", "path": "Engine", "fmt": { "len": 8, "max": 1.98, "min": -2, "div": 64, "sign": true, "unit": "scalar" }, "name": "Misfire acceleration, cylinder 4"}
   ]},
@@ -351,11 +351,11 @@
   "signals": [
     {"id": "EVEREST_FAN_SPD_DES", "path": "Movement", "fmt": { "len": 16, "max": 100, "mul": 40, "div": 13107, "unit": "percent" }, "name": "Fan speed, desired"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03BA"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03BA"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_AAT_V", "path": "Climate", "fmt": { "len": 16, "max": 5, "mul": 5, "div": 1023, "unit": "volts" }, "name": "Ambient temperature sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "03BB"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03BB"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_VCT_EXH_DES", "path": "Engine", "fmt": { "len": 16, "max": 2047, "min": -2047, "div": 16, "sign": true, "unit": "degrees" }, "name": "Camshaft position, exhaust desired"}
   ]},
@@ -375,11 +375,11 @@
   "signals": [
     {"id": "EVEREST_MCT", "path": "Engine", "fmt": { "len": 8, "max": 148.889, "unit": "celsius" }, "name": "Manifold temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03DC"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03DC"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_HPFP_DES", "path": "Engine", "fmt": { "len": 16, "max": 655350, "mul": 10, "unit": "kilopascal" }, "name": "Fuel rail pressure, desired"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "03E3"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03E3"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_PF_DIFF_P_FEEDBACK_V", "path": "Battery", "fmt": { "len": 16, "max": 32.01, "min": -32.01, "mul": 977, "div": 1000000, "sign": true, "unit": "volts" }, "name": "PF differential pressure feedback EGR sensor voltage"}
   ]},
@@ -403,7 +403,7 @@
   "signals": [
     {"id": "EVEREST_EXH_GAS_T_2", "path": "Engine", "fmt": { "len": 8, "max": 1275, "mul": 5, "unit": "celsius" }, "name": "Exhaust gas temperature 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0403"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0403"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_KS1_RAW", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Knock sensor, 1"}
   ]},
@@ -448,15 +448,15 @@
   "signals": [
     {"id": "EVEREST_CAT", "path": "Engine", "fmt": { "len": 16, "max": 189, "min": -40, "div": 64, "add": -40, "sign": true, "unit": "celsius" }, "name": "Charge air temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0462"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0462"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_WGDC", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 100, "div": 32768, "unit": "percent" }, "name": "Wastegate duty cycle"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0466"}, "freq": 0.25, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0466"}, "freq": 0.25, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_TIP_DES_ABS", "path": "Engine", "fmt": { "len": 16, "max": 72.5, "mul": 37, "div": 33441, "unit": "psi" }, "name": "Throttle inlet pressure, desired"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "046F"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "046F"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_INJ_MODE", "path": "Engine", "fmt": { "len": 8, "max": 7, "unit": "scalar" }, "name": "Injection mode"}
   ]},
@@ -488,7 +488,7 @@
   "signals": [
     {"id": "EVEREST_CYL_6_FUEL_QTY", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 6 fuel quantity"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "04F7"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04F7"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_GEN_CURRENT", "path": "Engine", "fmt": { "len": 16, "max": 511.8205, "min": -511.8361, "mul": 781, "div": 50000, "sign": true, "unit": "amps" }, "name": "Generator current"}
   ]},
@@ -552,11 +552,11 @@
   "signals": [
     {"id": "EVEREST_AAT_ALT", "path": "Climate", "fmt": { "len": 8, "max": 87.5, "min": -40, "div": 2, "add": -40, "unit": "celsius" }, "name": "Ambient temperature, alternate"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0580"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0580"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_GRILL_SHUTTER_POS", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Grill shutter position"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "05AC"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "05AC"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_PCM_CYL_1_KNK_COMB_PERF_CNT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Knock counter, cylinder 1"}
   ]},
@@ -564,11 +564,11 @@
   "signals": [
     {"id": "EVEREST_PCM_CYL_2_KNK_COMB_PERF_CNT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Knock counter, cylinder 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "05AE"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "05AE"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_PCM_CYL_3_KNK_COMB_PERF_CNT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Knock counter, cylinder 3"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "05AF"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "05AF"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_PCM_CYL_4_KNK_COMB_PERF_CNT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Knock counter, cylinder 4"}
   ]},
@@ -600,11 +600,11 @@
   "signals": [
     {"id": "EVEREST_LOW_SIDE_FUEL_RAIL_P", "path": "Fuel", "fmt": { "len": 16, "max": 32767, "div": 2, "unit": "kilopascal" }, "name": "Low side fuel rail pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0700"}, "freq": 5, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0700"}, "freq": 5, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_IAT_FAULT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Intake temperature fault"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0707"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0707"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_GRILL_SHUT_DC", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Grill shutter duty cycle"}
   ]},
@@ -620,7 +620,7 @@
   "signals": [
     {"id": "EVEREST_ATF_T_VAR_6", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "fahrenheit" }, "name": "Transmission fluid temperature, variant 6"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "093C"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "093C"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_ETC_ANG_ACT", "path": "Engine", "fmt": { "len": 16, "max": 127.99, "div": 512, "unit": "degrees" }, "name": "Throttle angle, actual"}
   ]},
@@ -712,11 +712,11 @@
   "signals": [
     {"id": "EVEREST_EGR_INLET_T", "path": "Engine", "fmt": { "len": 16, "max": 11756, "min": -40, "mul": 9, "div": 50, "add": -40, "unit": "fahrenheit" }, "name": "Exhaust gas recirculation inlet temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1166"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1166"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_EVAP_PURGE_CMD", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 100, "div": 32768, "unit": "percent" }, "name": "Evaporative purge"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "116B"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "116B"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_IGN_TIM_CYL1", "path": "Engine", "fmt": { "len": 16, "max": 80, "min": -80, "div": 4, "sign": true, "unit": "degrees" }, "name": "Ignition timing, cylinder 1"}
   ]},
@@ -776,7 +776,7 @@
   "signals": [
     {"id": "EVEREST_EXH_BACK_P", "path": "Engine", "fmt": { "len": 16, "max": 2375, "mul": 29, "div": 800, "unit": "psi" }, "name": "Exhaust back pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1505"}, "freq": 0.25, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1505"}, "freq": 0.25, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_VSS_HD", "path": "Movement", "fmt": { "len": 16, "max": 200, "div": 128, "unit": "kilometersPerHour" }, "name": "Vehicle speed, high resolution"}
   ]},
@@ -896,11 +896,11 @@
   "signals": [
     {"id": "EVEREST_PCM_CMD_TRANS_MAIN_LINE_P", "path": "Transmission", "fmt": { "len": 16, "max": 65534, "min": -65536, "mul": 2, "sign": true, "unit": "kilopascal" }, "name": "Transmission pressure, commanded"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1E1C"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E1C"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_TOT", "path": "Transmission", "fmt": { "len": 16, "max": 255, "min": -40, "div": 16, "sign": true, "unit": "celsius" }, "name": "Transmission oil temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E1F"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E1F"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_GEAR_ENG", "path": "Transmission", "fmt": { "len": 8, "max": 6, "unit": "scalar" }, "name": "Gear, engaged"}
   ]},
@@ -935,7 +935,7 @@
   "signals": [
     {"id": "EVEREST_DTE", "path": "Trips", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilometers" }, "name": "Distance to empty, calculated", "suggestedMetric": "fuelRange"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "4195"}, "freq": 30, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "4195"}, "freq": 30, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_DTE_DISP", "path": "Trips", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilometers" }, "name": "Distance to empty, displayed", "suggestedMetric": "fuelRange"}
   ]},
@@ -963,7 +963,7 @@
   "signals": [
     {"id": "EVEREST_ENG_LOAD_PCT", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Engine load"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F406"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F406"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_STFT", "path": "Engine", "fmt": { "len": 8, "max": 99.2, "min": -100, "mul": 100, "div": 128, "add": -100, "unit": "percent" }, "name": "Fuel trim, short term"}
   ]},
@@ -979,19 +979,19 @@
   "signals": [
     {"id": "EVEREST_RPM", "path": "Engine", "fmt": { "len": 16, "max": 16383.75, "div": 4, "unit": "rpm" }, "name": "Engine speed"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40D"}, "freq": 0.25, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40D"}, "freq": 0.25, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40F"}, "freq": 5, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40F"}, "freq": 5, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_IAT_ALT2", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Intake temperature, alternate"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F41F"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F41F"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_RUN_TIME", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "seconds" }, "name": "Engine run time"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F421"}, "freq": 30, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F421"}, "freq": 30, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_MIL_DIST", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance with MIL"}
   ]},
@@ -999,11 +999,11 @@
   "signals": [
     {"id": "EVEREST_EGR", "path": "Engine", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Exhaust gas recirculation"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F430"}, "freq": 3600, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F430"}, "freq": 3600, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_WARMUP_CLR", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Warm-ups since DTC clear"}
   ]},
@@ -1019,11 +1019,11 @@
   "signals": [
     {"id": "EVEREST_CAT_TEMP", "path": "Engine", "fmt": { "len": 16, "max": 6513.5, "min": -40, "div": 10, "add": -40, "unit": "celsius" }, "name": "Catalyst temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F443"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F443"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_ENG_LOAD_ACT", "path": "Engine", "fmt": { "len": 16, "max": 25700, "mul": 100, "div": 255, "unit": "percent" }, "name": "Engine load, actual"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F446"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F446"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_AAT_7E0", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Ambient air temperature"}
   ]},
@@ -1031,7 +1031,7 @@
   "signals": [
     {"id": "EVEREST_EOT_F45C", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature, alternate", "suggestedMetric": "engineOilTemperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F45E"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F45E"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_ENG_FUEL_RATE", "path": "Fuel", "fmt": { "len": 16, "max": 3276.75, "div": 20, "unit": "liters" }, "name": "Engine fuel rate"}
   ]},
@@ -1039,7 +1039,7 @@
   "signals": [
     {"id": "EVEREST_PCM_ACT_ENG_PCT_TRQ", "path": "Engine", "fmt": { "len": 8, "max": 100, "add": -125, "unit": "percent" }, "name": "Actual engine percent torque"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F463"}, "freq": 3600, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F463"}, "freq": 3600, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_PCM_ENG_REFERENCE_TRQ", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "newtonMeters" }, "name": "Engine reference torque"}
   ]},
@@ -1047,7 +1047,7 @@
   "signals": [
     {"id": "EVEREST_EGR_T_7E0_7E0", "path": "Engine", "fmt": { "len": 16, "max": 6513, "min": -40, "div": 10, "add": -40, "unit": "celsius" }, "name": "Exhaust gas recirculation temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F478"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F478"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_EGT_B1", "path": "Engine", "fmt": { "len": 16, "max": 6513, "min": -40, "div": 10, "add": -40, "unit": "celsius" }, "name": "Exhaust gas temperature, bank 1"}
   ]},
@@ -1079,7 +1079,7 @@
   "signals": [
     {"id": "EVEREST_TRANS_FLUID_FLUID", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Transmission fluid fluid quality"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1E1F"}, "freq": 0.25,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1E1F"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_GEAR_7E1", "path": "Transmission", "fmt": { "len": 16, "max": 2047, "min": -2048, "div": 16, "sign": true, "unit": "scalar" }, "name": "Gear"}
   ]},
@@ -1087,7 +1087,7 @@
   "signals": [
     {"id": "EVEREST_ATF_T_VAR_5", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "celsius" }, "name": "Transmission fluid temperature, variant 5"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "DD01"}, "freq": 30,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_TRANS_ODO", "path": "Transmission", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Transmission odometer", "suggestedMetric": "odometer"}
   ]}

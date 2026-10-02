@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_CORR: 90.21875
+  response: 7E805620334168E
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_CORR: 90.40625
+  response: 7E805620334169A
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_CORR: 90.4375
+  response: 7E805620334169C
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_CORR: 90.54688
+  response: 7E80562033416A3
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_CORR: 90.76562
+  response: 7E80562033416B1
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_CORR: 91.8125
+  response: 7E80562033416F4
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_CORR: 92.07812
+  response: '7E8056203341705'
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_CORR: 92.09375
+  response: '7E8056203341706'

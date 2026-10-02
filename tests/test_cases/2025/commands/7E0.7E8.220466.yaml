@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.220466
+test_cases:
+- expected_values:
+    EVEREST_TIP_DES_ABS: 13.35456
+  response: 7E8056204662F26
+- expected_values:
+    EVEREST_TIP_DES_ABS: 13.37005
+  response: 7E8056204662F34
+- expected_values:
+    EVEREST_TIP_DES_ABS: 13.38001
+  response: 7E8056204662F3D
+- expected_values:
+    EVEREST_TIP_DES_ABS: 13.39108
+  response: 7E8056204662F47
+- expected_values:
+    EVEREST_TIP_DES_ABS: 13.40435
+  response: 7E8056204662F53
+- expected_values:
+    EVEREST_TIP_DES_ABS: 13.41321
+  response: 7E8056204662F5B

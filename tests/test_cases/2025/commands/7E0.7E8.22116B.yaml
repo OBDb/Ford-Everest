@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22116B
+test_cases:
+- expected_values:
+    EVEREST_IGN_TIM_CYL1: 4.75
+  response: 7E80562116B0013
+- expected_values:
+    EVEREST_IGN_TIM_CYL1: 5.25
+  response: 7E80562116B0015
+- expected_values:
+    EVEREST_IGN_TIM_CYL1: 5.75
+  response: 7E80562116B0017
+- expected_values:
+    EVEREST_IGN_TIM_CYL1: 6
+  response: 7E80562116B0018
+- expected_values:
+    EVEREST_IGN_TIM_CYL1: 12.75
+  response: 7E80562116B0033
+- expected_values:
+    EVEREST_IGN_TIM_CYL1: -2.75
+  response: 7E80562116BFFF5
