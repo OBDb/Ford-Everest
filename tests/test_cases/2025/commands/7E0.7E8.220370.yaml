@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220370
+test_cases:
+- expected_values:
+    EVEREST_MAP_HIRES: 27.5
+  response: 7E805620370006E
+- expected_values:
+    EVEREST_MAP_HIRES: 44
+  response: 7E80562037000B0
+- expected_values:
+    EVEREST_MAP_HIRES: 51.75
+  response: 7E80562037000CF
+- expected_values:
+    EVEREST_MAP_HIRES: 52.25
+  response: 7E80562037000D1
+- expected_values:
+    EVEREST_MAP_HIRES: 52.75
+  response: 7E80562037000D3
+- expected_values:
+    EVEREST_MAP_HIRES: 53.25
+  response: 7E80562037000D5
+- expected_values:
+    EVEREST_MAP_HIRES: 55.75
+  response: 7E80562037000DF
+- expected_values:
+    EVEREST_MAP_HIRES: 69.5
+  response: '7E8056203700116'
+- expected_values:
+    EVEREST_MAP_HIRES: 70
+  response: '7E8056203700118'
+- expected_values:
+    EVEREST_MAP_HIRES: 83.75
+  response: 7E805620370014F

@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220403
+test_cases:
+- expected_values:
+    EVEREST_KS1_RAW: 40
+  response: '7E8056204030028'
+- expected_values:
+    EVEREST_KS1_RAW: 41
+  response: '7E8056204030029'
+- expected_values:
+    EVEREST_KS1_RAW: 44
+  response: 7E805620403002C
+- expected_values:
+    EVEREST_KS1_RAW: 49
+  response: '7E8056204030031'
+- expected_values:
+    EVEREST_KS1_RAW: 52
+  response: '7E8056204030034'
+- expected_values:
+    EVEREST_KS1_RAW: 60
+  response: 7E805620403003C
+- expected_values:
+    EVEREST_KS1_RAW: 61
+  response: 7E805620403003D
+- expected_values:
+    EVEREST_KS1_RAW: 76
+  response: 7E805620403004C
+- expected_values:
+    EVEREST_KS1_RAW: 108
+  response: 7E805620403006C

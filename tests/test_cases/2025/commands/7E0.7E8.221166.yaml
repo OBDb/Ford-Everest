@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    EVEREST_EVAP_PURGE_CMD: 14.01367
+  response: 7E80562116611F0
+- expected_values:
+    EVEREST_EVAP_PURGE_CMD: 39.16016
+  response: '7E8056211663220'
+- expected_values:
+    EVEREST_EVAP_PURGE_CMD: 39.74609
+  response: 7E80562116632E0
+- expected_values:
+    EVEREST_EVAP_PURGE_CMD: 40.77759
+  response: '7E8056211663432'
+- expected_values:
+    EVEREST_EVAP_PURGE_CMD: 40.89355
+  response: '7E8056211663458'
+- expected_values:
+    EVEREST_EVAP_PURGE_CMD: 58.74939
+  response: 7E8056211664B33
+- expected_values:
+    EVEREST_EVAP_PURGE_CMD: 69.57092
+  response: 7E805621166590D
+- expected_values:
+    EVEREST_EVAP_PURGE_CMD: 74.2981
+  response: 7E8056211665F1A

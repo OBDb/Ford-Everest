@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2203E3
+test_cases:
+- expected_values:
+    EVEREST_PF_DIFF_P_FEEDBACK_V: 1.50458
+  response: 7E8056203E30604
+- expected_values:
+    EVEREST_PF_DIFF_P_FEEDBACK_V: 1.50946
+  response: 7E8056203E30609
+- expected_values:
+    EVEREST_PF_DIFF_P_FEEDBACK_V: 1.52412
+  response: 7E8056203E30618
+- expected_values:
+    EVEREST_PF_DIFF_P_FEEDBACK_V: 1.529
+  response: 7E8056203E3061D
+- expected_values:
+    EVEREST_PF_DIFF_P_FEEDBACK_V: 1.57297
+  response: 7E8056203E3064A
+- expected_values:
+    EVEREST_PF_DIFF_P_FEEDBACK_V: 1.57786
+  response: 7E8056203E3064F
+- expected_values:
+    EVEREST_PF_DIFF_P_FEEDBACK_V: 1.65602
+  response: 7E8056203E3069F

@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.220580
+test_cases:
+- expected_values:
+    EVEREST_GRILL_SHUTTER_POS: 74.11765
+  response: 7E804620580BD
+- expected_values:
+    EVEREST_GRILL_SHUTTER_POS: 74.90196
+  response: 7E804620580BF
+- expected_values:
+    EVEREST_GRILL_SHUTTER_POS: 75.68627
+  response: 7E804620580C1
+- expected_values:
+    EVEREST_GRILL_SHUTTER_POS: 76.47059
+  response: 7E804620580C3
+- expected_values:
+    EVEREST_GRILL_SHUTTER_POS: 77.2549
+  response: 7E804620580C5
+- expected_values:
+    EVEREST_GRILL_SHUTTER_POS: 78.03922
+  response: 7E804620580C7

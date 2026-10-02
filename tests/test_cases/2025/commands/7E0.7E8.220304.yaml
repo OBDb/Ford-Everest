@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220304
+test_cases:
+- expected_values:
+    EVEREST_CMD_GEN_V: 14.32426
+  response: 7E80562030472A9
+- expected_values:
+    EVEREST_CMD_GEN_V: 14.34427
+  response: 7E80562030472D2
+- expected_values:
+    EVEREST_CMD_GEN_V: 14.34574
+  response: 7E80562030472D5
+- expected_values:
+    EVEREST_CMD_GEN_V: 14.36818
+  response: '7E8056203047303'
+- expected_values:
+    EVEREST_CMD_GEN_V: 14.36867
+  response: '7E8056203047304'
+- expected_values:
+    EVEREST_CMD_GEN_V: 14.36965
+  response: '7E8056203047306'
+- expected_values:
+    EVEREST_CMD_GEN_V: 14.3716
+  response: 7E805620304730A
+- expected_values:
+    EVEREST_CMD_GEN_V: 14.37258
+  response: 7E805620304730C
+- expected_values:
+    EVEREST_CMD_GEN_V: 14.37697
+  response: '7E8056203047315'

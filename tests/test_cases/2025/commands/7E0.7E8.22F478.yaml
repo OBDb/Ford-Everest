@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.22F478
+test_cases:
+- expected_values:
+    EVEREST_EGT_B1: -13.9
+  response: |-
+    7E8100C62F478010578
+    7E821000000000000
