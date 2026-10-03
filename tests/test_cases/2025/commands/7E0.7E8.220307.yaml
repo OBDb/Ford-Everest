@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    EVEREST_LPFP_DUTY: 22.97058
+  response: 7E8056203071D67
+- expected_values:
+    EVEREST_LPFP_DUTY: 23.42529
+  response: 7E8056203071DFC
+- expected_values:
+    EVEREST_LPFP_DUTY: 23.4375
+  response: 7E8056203071E00
+- expected_values:
+    EVEREST_LPFP_DUTY: 25.21973
+  response: '7E8056203072048'

@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     EVEREST_LPFP_DES: 69.165
   response: 7E80462041F9F
+- expected_values:
+    EVEREST_LPFP_DES: 70.47
+  response: 7E80462041FA2
+- expected_values:
+    EVEREST_LPFP_DES: 70.905
+  response: 7E80462041FA3
+- expected_values:
+    EVEREST_LPFP_DES: 71.34
+  response: 7E80462041FA4
+- expected_values:
+    EVEREST_LPFP_DES: 71.775
+  response: 7E80462041FA5
+- expected_values:
+    EVEREST_LPFP_DES: 72.21
+  response: 7E80462041FA6

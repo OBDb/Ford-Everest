@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221E19
 test_cases:
 - expected_values:
+    EVEREST_PCM_CMD_TRANS_GEAR_RATIO: 2.14896
+  response: 7E805621E192262
+- expected_values:
     EVEREST_PCM_CMD_TRANS_GEAR_RATIO: 4.71394
   response: 7E805621E194B6C
 - expected_values:
