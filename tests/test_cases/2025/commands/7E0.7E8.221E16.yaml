@@ -1,5 +1,17 @@
 command_id: 7E0.7E8.221E16
 test_cases:
 - expected_values:
+    EVEREST_AXLE_GEAR_RATIO_MEAS: 0.68896
+  response: 7E805621E160B06
+- expected_values:
+    EVEREST_AXLE_GEAR_RATIO_MEAS: 0.85352
+  response: 7E805621E160DA8
+- expected_values:
+    EVEREST_AXLE_GEAR_RATIO_MEAS: 4.49951
+  response: 7E805621E1647FE
+- expected_values:
+    EVEREST_AXLE_GEAR_RATIO_MEAS: 4.71094
+  response: 7E805621E164B60
+- expected_values:
     EVEREST_AXLE_GEAR_RATIO_MEAS: 10
   response: 7E805621E16A000

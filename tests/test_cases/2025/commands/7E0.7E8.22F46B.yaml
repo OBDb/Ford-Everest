@@ -1,0 +1,27 @@
+command_id: 7E0.7E8.22F46B
+test_cases:
+- expected_values:
+    EVEREST_EGR_T_7E0_7E0: 1598.4
+  response: |-
+    7E8100862F46B400000
+    7E8211A00
+- expected_values:
+    EVEREST_EGR_T_7E0_7E0: 1598.4
+  response: |-
+    7E8100862F46B400000
+    7E8211B00
+- expected_values:
+    EVEREST_EGR_T_7E0_7E0: 1598.4
+  response: |-
+    7E8100862F46B400000
+    7E8211C00
+- expected_values:
+    EVEREST_EGR_T_7E0_7E0: 1598.4
+  response: |-
+    7E8100862F46B400000
+    7E8211F00
+- expected_values:
+    EVEREST_EGR_T_7E0_7E0: 1598.4
+  response: |-
+    7E8100862F46B400000
+    7E8212100

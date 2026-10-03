@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221E12
+test_cases:
+- expected_values:
+    EVEREST_GEAR: '1'
+  response: 7E804621E1201
+- expected_values:
+    EVEREST_GEAR: '9'
+  response: 7E804621E1209
+- expected_values:
+    EVEREST_GEAR: '10'
+  response: 7E804621E120A

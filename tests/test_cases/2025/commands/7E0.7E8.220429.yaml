@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220429
+test_cases:
+- expected_values:
+    EVEREST_FUEL_T_7E0: 15.54688
+  response: 7E80562042903E3

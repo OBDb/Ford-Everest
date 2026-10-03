@@ -4,26 +4,5 @@ test_cases:
     EVEREST_FLI: 1.96078
   response: 7E80462F42F05
 - expected_values:
-    EVEREST_FLI: 8.62745
-  response: 7E80462F42F16
-- expected_values:
-    EVEREST_FLI: 10.58824
-  response: 7E80462F42F1B
-- expected_values:
-    EVEREST_FLI: 12.54902
-  response: 7E80462F42F20
-- expected_values:
-    EVEREST_FLI: 32.15686
-  response: 7E80462F42F52
-- expected_values:
-    EVEREST_FLI: 41.17647
-  response: 7E80462F42F69
-- expected_values:
-    EVEREST_FLI: 43.92157
-  response: 7E80462F42F70
-- expected_values:
-    EVEREST_FLI: 46.66667
-  response: 7E80462F42F77
-- expected_values:
-    EVEREST_FLI: 49.41176
-  response: 7E80462F42F7E
+    EVEREST_FLI: 49.80392
+  response: 7E80462F42F7F
