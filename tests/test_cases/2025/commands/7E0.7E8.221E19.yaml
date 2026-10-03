@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EVEREST_PCM_CMD_TRANS_GEAR_RATIO: 4.71394
   response: 7E805621E194B6C
+- expected_values:
+    EVEREST_PCM_CMD_TRANS_GEAR_RATIO: 4.88484
+  response: 7E805621E194E28

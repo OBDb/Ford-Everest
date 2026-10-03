@@ -12,3 +12,21 @@ test_cases:
 - expected_values:
     EVEREST_AC_P_SENS_V: 1.96777
   response: 7E80562980007DF
+- expected_values:
+    EVEREST_AC_P_SENS_V: 2.02148
+  response: '7E8056298000816'
+- expected_values:
+    EVEREST_AC_P_SENS_V: 2.02637
+  response: 7E805629800081B
+- expected_values:
+    EVEREST_AC_P_SENS_V: 2.05078
+  response: '7E8056298000834'
+- expected_values:
+    EVEREST_AC_P_SENS_V: 2.06055
+  response: 7E805629800083E
+- expected_values:
+    EVEREST_AC_P_SENS_V: 2.07031
+  response: '7E8056298000848'
+- expected_values:
+    EVEREST_AC_P_SENS_V: 2.08984
+  response: 7E805629800085C

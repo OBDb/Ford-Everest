@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F40B
+test_cases:
+- expected_values:
+    EVEREST_MAP: 6.52675
+  response: 7E80462F40B2D
+- expected_values:
+    EVEREST_MAP: 6.67179
+  response: 7E80462F40B2E
+- expected_values:
+    EVEREST_MAP: 7.54203
+  response: 7E80462F40B34
+- expected_values:
+    EVEREST_MAP: 7.68706
+  response: 7E80462F40B35
+- expected_values:
+    EVEREST_MAP: 7.8321
+  response: 7E80462F40B36
+- expected_values:
+    EVEREST_MAP: 8.70234
+  response: 7E80462F40B3C

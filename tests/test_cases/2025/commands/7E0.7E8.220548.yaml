@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220548
+test_cases:
+- expected_values:
+    EVEREST_LPFP_ACT: 63.6005
+  response: 7E805620548036D
+- expected_values:
+    EVEREST_LPFP_ACT: 64.39822
+  response: '7E8056205480378'
+- expected_values:
+    EVEREST_LPFP_ACT: 64.76083
+  response: 7E805620548037D
+- expected_values:
+    EVEREST_LPFP_ACT: 65.05091
+  response: '7E8056205480381'
+- expected_values:
+    EVEREST_LPFP_ACT: 66.64636
+  response: '7E8056205480397'
+- expected_values:
+    EVEREST_LPFP_ACT: 67.08148
+  response: 7E805620548039D
+- expected_values:
+    EVEREST_LPFP_ACT: 67.58913
+  response: 7E80562054803A4
+- expected_values:
+    EVEREST_LPFP_ACT: 68.82198
+  response: 7E80562054803B5
+- expected_values:
+    EVEREST_LPFP_ACT: 69.18458
+  response: 7E80562054803BA
+- expected_values:
+    EVEREST_LPFP_ACT: 71.21515
+  response: 7E80562054803D6
