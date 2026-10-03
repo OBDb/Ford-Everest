@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220319
+test_cases:
+- expected_values:
+    EVEREST_VCT_EXH_ACT: 0
+  response: '7E8056203190000'
+- expected_values:
+    EVEREST_VCT_EXH_ACT: 0.1875
+  response: '7E8056203190003'
+- expected_values:
+    EVEREST_VCT_EXH_ACT: 33.1875
+  response: '7E8056203190213'
+- expected_values:
+    EVEREST_VCT_EXH_ACT: 39
+  response: '7E8056203190270'

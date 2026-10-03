@@ -12,3 +12,18 @@ test_cases:
 - expected_values:
     EVEREST_FLI: 12.54902
   response: 7E80462F42F20
+- expected_values:
+    EVEREST_FLI: 32.15686
+  response: 7E80462F42F52
+- expected_values:
+    EVEREST_FLI: 41.17647
+  response: 7E80462F42F69
+- expected_values:
+    EVEREST_FLI: 43.92157
+  response: 7E80462F42F70
+- expected_values:
+    EVEREST_FLI: 46.66667
+  response: 7E80462F42F77
+- expected_values:
+    EVEREST_FLI: 49.41176
+  response: 7E80462F42F7E

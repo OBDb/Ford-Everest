@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     EVEREST_VCT_EXH_DUTY: 0
   response: '7E8056203170000'
+- expected_values:
+    EVEREST_VCT_EXH_DUTY: 37.01782
+  response: 7E8056203172F62
+- expected_values:
+    EVEREST_VCT_EXH_DUTY: 42.32178
+  response: 7E805620317362C
