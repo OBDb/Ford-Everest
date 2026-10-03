@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2203CA
+test_cases:
+- expected_values:
+    EVEREST_MCT: 87
+  response: 7E8046203CA57
+- expected_values:
+    EVEREST_MCT: 88
+  response: 7E8046203CA58
+- expected_values:
+    EVEREST_MCT: 89
+  response: 7E8046203CA59
