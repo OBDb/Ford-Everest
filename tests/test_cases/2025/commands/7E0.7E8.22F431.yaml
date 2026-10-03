@@ -12,3 +12,15 @@ test_cases:
 - expected_values:
     EVEREST_DIST_DTC_CLR: 6581
   response: 7E80562F43119B5
+- expected_values:
+    EVEREST_DIST_DTC_CLR: 6583
+  response: 7E80562F43119B7
+- expected_values:
+    EVEREST_DIST_DTC_CLR: 6584
+  response: 7E80562F43119B8
+- expected_values:
+    EVEREST_DIST_DTC_CLR: 6585
+  response: 7E80562F43119B9
+- expected_values:
+    EVEREST_DIST_DTC_CLR: 6586
+  response: 7E80562F43119BA
