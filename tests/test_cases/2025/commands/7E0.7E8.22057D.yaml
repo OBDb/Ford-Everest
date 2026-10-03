@@ -9,3 +9,15 @@ test_cases:
 - expected_values:
     EVEREST_AAT_ALT: 36
   response: 7E80462057D98
+- expected_values:
+    EVEREST_AAT_ALT: 43
+  response: 7E80462057DA6
+- expected_values:
+    EVEREST_AAT_ALT: 44
+  response: 7E80462057DA8
+- expected_values:
+    EVEREST_AAT_ALT: 46
+  response: 7E80462057DAC
+- expected_values:
+    EVEREST_AAT_ALT: 47
+  response: 7E80462057DAE

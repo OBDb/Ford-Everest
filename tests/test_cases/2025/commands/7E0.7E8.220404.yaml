@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.220404
 test_cases:
 - expected_values:
+    EVEREST_KS2_RAW: 38
+  response: '7E8056204040026'
+- expected_values:
     EVEREST_KS2_RAW: 47
   response: 7E805620404002F
 - expected_values:
@@ -15,3 +18,9 @@ test_cases:
 - expected_values:
     EVEREST_KS2_RAW: 51
   response: '7E8056204040033'
+- expected_values:
+    EVEREST_KS2_RAW: 52
+  response: '7E8056204040034'
+- expected_values:
+    EVEREST_KS2_RAW: 59
+  response: 7E805620404003B

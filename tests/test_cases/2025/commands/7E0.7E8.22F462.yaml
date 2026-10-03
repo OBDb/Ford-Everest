@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F462
+test_cases:
+- expected_values:
+    EVEREST_PCM_ACT_ENG_PCT_TRQ: 10
+  response: 7E80462F46287
+- expected_values:
+    EVEREST_PCM_ACT_ENG_PCT_TRQ: 11
+  response: 7E80462F46288
+- expected_values:
+    EVEREST_PCM_ACT_ENG_PCT_TRQ: 12
+  response: 7E80462F46289
+- expected_values:
+    EVEREST_PCM_ACT_ENG_PCT_TRQ: 15
+  response: 7E80462F4628C

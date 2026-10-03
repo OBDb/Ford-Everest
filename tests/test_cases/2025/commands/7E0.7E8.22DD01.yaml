@@ -16,6 +16,9 @@ test_cases:
     EVEREST_ODO_7E0: 6537
   response: 7E80662DD01001989
 - expected_values:
+    EVEREST_ODO_7E0: 6581
+  response: 7E80662DD010019B5
+- expected_values:
     EVEREST_ODO_7E0: 2163
   response: |-
     > 746.74E.22483D
