@@ -536,7 +536,7 @@
   "signals": [
     {"id": "EVEREST_DILUTION_OIL_FUEL", "path": "Fuel", "fmt": { "len": 8, "max": 255, "unit": "percent" }, "name": "Dilution of oil with fuel"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "054D"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "054D"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_LPFP_SENS_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "div": 1024, "sign": true, "unit": "volts" }, "name": "Fuel pressure sensor voltage, low"}
   ]},
@@ -959,7 +959,7 @@
   "signals": [
     {"id": "EVEREST_ODO_7E0", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F404"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F404"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
     {"id": "EVEREST_ENG_LOAD_PCT", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Engine load"}
   ]},
@@ -1075,7 +1075,7 @@
   "signals": [
     {"id": "EVEREST_ATF_T_VAR_2", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "fahrenheit" }, "name": "Transmission fluid temperature, variant 2"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "180F"}, "freq": 1,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "180F"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_TRANS_FLUID_FLUID", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Transmission fluid fluid quality"}
   ]},

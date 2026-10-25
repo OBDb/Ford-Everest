@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    EVEREST_ENG_LOAD_PCT: 24.70588
+  response: 7E80462F4043F
+- expected_values:
+    EVEREST_ENG_LOAD_PCT: 25.88235
+  response: 7E80462F40442
+- expected_values:
+    EVEREST_ENG_LOAD_PCT: 30.98039
+  response: 7E80462F4044F
+- expected_values:
+    EVEREST_ENG_LOAD_PCT: 33.72549
+  response: 7E80462F40456
+- expected_values:
+    EVEREST_ENG_LOAD_PCT: 34.11765
+  response: 7E80462F40457
+- expected_values:
+    EVEREST_ENG_LOAD_PCT: 34.90196
+  response: 7E80462F40459
+- expected_values:
+    EVEREST_ENG_LOAD_PCT: 41.56863
+  response: 7E80462F4046A
+- expected_values:
+    EVEREST_ENG_LOAD_PCT: 41.96078
+  response: 7E80462F4046B
+- expected_values:
+    EVEREST_ENG_LOAD_PCT: 49.01961
+  response: 7E80462F4047D
+- expected_values:
+    EVEREST_ENG_LOAD_PCT: 58.43137
+  response: 7E80462F40495
