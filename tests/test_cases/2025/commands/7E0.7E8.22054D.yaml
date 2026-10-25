@@ -4,8 +4,8 @@ test_cases:
     EVEREST_LPFP_SENS_V: 2.6416
   response: 7E80562054D0A91
 - expected_values:
-    EVEREST_LPFP_SENS_V: 2.77344
-  response: 7E80562054D0B18
+    EVEREST_LPFP_SENS_V: 2.76855
+  response: 7E80562054D0B13
 - expected_values:
     EVEREST_LPFP_SENS_V: 2.99316
   response: 7E80562054D0BF9
