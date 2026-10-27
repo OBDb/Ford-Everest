@@ -231,7 +231,7 @@
   "signals": [
     {"id": "EVEREST_CL", "path": "Engine", "fmt": { "len": 16, "max": 1.9999, "div": 32768, "unit": "scalar" }, "name": "Lambda, commanded", "description": "The ratio of oxygen in the combustion chamber compared to the amount that should have been present for ideal combustion."}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0316"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0316"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "EVEREST_VCT_INT_DUTY", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 25, "div": 8192, "unit": "percent" }, "name": "Camshaft solenoid duty cycle, intake"}
   ]},
