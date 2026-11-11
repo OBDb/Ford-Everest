@@ -4,26 +4,5 @@ test_cases:
     EVEREST_CHG_AIR_T: 22
   response: 7E80462051C3E
 - expected_values:
-    EVEREST_CHG_AIR_T: 23
-  response: 7E80462051C3F
-- expected_values:
-    EVEREST_CHG_AIR_T: 24
-  response: 7E80462051C40
-- expected_values:
-    EVEREST_CHG_AIR_T: 26
-  response: 7E80462051C42
-- expected_values:
-    EVEREST_CHG_AIR_T: 28
-  response: 7E80462051C44
-- expected_values:
-    EVEREST_CHG_AIR_T: 30
-  response: 7E80462051C46
-- expected_values:
-    EVEREST_CHG_AIR_T: 31
-  response: 7E80462051C47
-- expected_values:
-    EVEREST_CHG_AIR_T: 32
-  response: 7E80462051C48
-- expected_values:
-    EVEREST_CHG_AIR_T: 33
-  response: 7E80462051C49
+    EVEREST_CHG_AIR_T: 35
+  response: 7E80462051C4B

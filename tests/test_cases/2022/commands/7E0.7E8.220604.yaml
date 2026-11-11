@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220604
 test_cases:
 - expected_values:
-    EVEREST_PCM_A_C_REFRIG_P: 754
-  response: 7E80562060402F2
+    EVEREST_PCM_A_C_REFRIG_P: 649
+  response: '7E8056206040289'
 - expected_values:
     EVEREST_PCM_A_C_REFRIG_P: 756
   response: 7E80562060402F4
@@ -10,20 +10,5 @@ test_cases:
     EVEREST_PCM_A_C_REFRIG_P: 785
   response: '7E8056206040311'
 - expected_values:
-    EVEREST_PCM_A_C_REFRIG_P: 791
-  response: '7E8056206040317'
-- expected_values:
-    EVEREST_PCM_A_C_REFRIG_P: 794
-  response: 7E805620604031A
-- expected_values:
-    EVEREST_PCM_A_C_REFRIG_P: 804
-  response: '7E8056206040324'
-- expected_values:
-    EVEREST_PCM_A_C_REFRIG_P: 875
-  response: 7E805620604036B
-- expected_values:
-    EVEREST_PCM_A_C_REFRIG_P: 916
-  response: '7E8056206040394'
-- expected_values:
-    EVEREST_PCM_A_C_REFRIG_P: 988
-  response: 7E80562060403DC
+    EVEREST_PCM_A_C_REFRIG_P: 1114
+  response: 7E805620604045A

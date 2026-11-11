@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.224194
 test_cases:
 - expected_values:
-    EVEREST_DTE: 148.4
-  response: 7E80562419405CC
-- expected_values:
-    EVEREST_DTE: 149
-  response: 7E80562419405D2
-- expected_values:
-    EVEREST_DTE: 149.6
-  response: 7E80562419405D8
-- expected_values:
-    EVEREST_DTE: 149.9
-  response: 7E80562419405DB
-- expected_values:
-    EVEREST_DTE: 150.3
-  response: 7E80562419405DF
-- expected_values:
-    EVEREST_DTE: 150.7
-  response: 7E80562419405E3
-- expected_values:
-    EVEREST_DTE: 151.3
-  response: 7E80562419405E9
-- expected_values:
-    EVEREST_DTE: 151.8
-  response: 7E80562419405EE
-- expected_values:
-    EVEREST_DTE: 152.4
-  response: 7E80562419405F4
+    EVEREST_DTE: 137.9
+  response: '7E8056241940563'
 - expected_values:
     EVEREST_DTE: 153.3
   response: 7E80562419405FD

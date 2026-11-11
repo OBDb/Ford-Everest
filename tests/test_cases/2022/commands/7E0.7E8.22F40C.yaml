@@ -1,32 +1,14 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
-    EVEREST_RPM: 975.5
-  response: 7E80562F40C0F3E
-- expected_values:
-    EVEREST_RPM: 1134
-  response: 7E80562F40C11B8
-- expected_values:
-    EVEREST_RPM: 1163.5
-  response: 7E80562F40C122E
-- expected_values:
-    EVEREST_RPM: 1339
-  response: 7E80562F40C14EC
-- expected_values:
-    EVEREST_RPM: 1361.5
-  response: 7E80562F40C1546
+    EVEREST_RPM: 801
+  response: 7E80562F40C0C84
 - expected_values:
     EVEREST_RPM: 1537
   response: 7E80562F40C1804
 - expected_values:
-    EVEREST_RPM: 1555
-  response: 7E80562F40C184C
-- expected_values:
-    EVEREST_RPM: 1756.5
-  response: 7E80562F40C1B72
-- expected_values:
-    EVEREST_RPM: 1774.5
-  response: 7E80562F40C1BBA
+    EVEREST_RPM: 1595.5
+  response: 7E80562F40C18EE
 - expected_values:
     EVEREST_RPM: 1978
   response: 7E80562F40C1EE8

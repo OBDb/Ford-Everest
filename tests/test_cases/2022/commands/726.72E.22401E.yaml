@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EVEREST_NORM_CUM_CHG_IGN_ON: 20.7
   response: 72E0562401E00CF
+- expected_values:
+    EVEREST_NORM_CUM_CHG_IGN_ON: 20.8
+  response: 72E0562401E00D0

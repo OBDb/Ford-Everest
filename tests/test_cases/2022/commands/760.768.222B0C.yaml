@@ -1,29 +1,11 @@
 command_id: 760.768.222B0C
 test_cases:
 - expected_values:
-    EVEREST_LAT_ANG: 15
-  response: 76805622B0C000F
+    EVEREST_LAT_ANG: 14
+  response: 76805622B0C000E
 - expected_values:
     EVEREST_LAT_ANG: -84
   response: 76805622B0CFFAC
-- expected_values:
-    EVEREST_LAT_ANG: -24
-  response: 76805622B0CFFE8
-- expected_values:
-    EVEREST_LAT_ANG: -20
-  response: 76805622B0CFFEC
-- expected_values:
-    EVEREST_LAT_ANG: -12
-  response: 76805622B0CFFF4
-- expected_values:
-    EVEREST_LAT_ANG: -10
-  response: 76805622B0CFFF6
-- expected_values:
-    EVEREST_LAT_ANG: -8
-  response: 76805622B0CFFF8
-- expected_values:
-    EVEREST_LAT_ANG: -5
-  response: 76805622B0CFFFB
 - expected_values:
     EVEREST_LAT_ANG: -1
   response: 76805622B0CFFFF

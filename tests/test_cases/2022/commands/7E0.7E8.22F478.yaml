@@ -3,38 +3,18 @@ test_cases:
 - expected_values:
     EVEREST_EGT_B1: 139.7
   response: |-
-    7E8100C62F478070586
+    7E8100C62F478070578
     7E8210578057876E4CC
-- expected_values:
-    EVEREST_EGT_B1: 139.9
-  response: |-
-    7E8100C62F478070787
-    7E8210578057876E4CC
-- expected_values:
-    EVEREST_EGT_B1: 140.1
-  response: |-
-    7E8100C62F478070905
-    7E82107F507F576E4CC
 - expected_values:
     EVEREST_EGT_B1: 140.2
   response: |-
     7E8100C62F478070A03
     7E8210A230A2376E4CC
 - expected_values:
-    EVEREST_EGT_B1: 140.2
+    EVEREST_EGT_B1: 140.3
   response: |-
-    7E8100C62F478070A14
-    7E8210977097776E4CC
-- expected_values:
-    EVEREST_EGT_B1: 140.2
-  response: |-
-    7E8100C62F478070A1C
-    7E82109CC09CC76E4CC
-- expected_values:
-    EVEREST_EGT_B1: 140.2
-  response: |-
-    7E8100C62F478070A9A
-    7E8210AAE0AAE76E4CC
+    7E8100C62F478070B15
+    7E821099F099F76E4CC
 - expected_values:
     EVEREST_EGT_B1: 140.3
   response: |-

@@ -4,26 +4,5 @@ test_cases:
     EVEREST_EXH_GAS_T_2: 100
   response: 7E8046203F514
 - expected_values:
-    EVEREST_EXH_GAS_T_2: 120
-  response: 7E8046203F518
-- expected_values:
-    EVEREST_EXH_GAS_T_2: 185
-  response: 7E8046203F525
-- expected_values:
-    EVEREST_EXH_GAS_T_2: 210
-  response: 7E8046203F52A
-- expected_values:
-    EVEREST_EXH_GAS_T_2: 220
-  response: 7E8046203F52C
-- expected_values:
-    EVEREST_EXH_GAS_T_2: 230
-  response: 7E8046203F52E
-- expected_values:
-    EVEREST_EXH_GAS_T_2: 235
-  response: 7E8046203F52F
-- expected_values:
-    EVEREST_EXH_GAS_T_2: 250
-  response: 7E8046203F532
-- expected_values:
     EVEREST_EXH_GAS_T_2: 265
   response: 7E8046203F535

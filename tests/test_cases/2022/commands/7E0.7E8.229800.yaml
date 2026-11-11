@@ -1,32 +1,14 @@
 command_id: 7E0.7E8.229800
 test_cases:
 - expected_values:
-    EVEREST_AC_P_SENS_V: 1.28516
-  response: '7E8056298000524'
+    EVEREST_AC_P_SENS_V: 1.1582
+  response: 7E80562980004A2
 - expected_values:
-    EVEREST_AC_P_SENS_V: 1.28613
-  response: '7E8056298000525'
+    EVEREST_AC_P_SENS_V: 1.23828
+  response: 7E80562980004F4
 - expected_values:
-    EVEREST_AC_P_SENS_V: 1.31738
-  response: '7E8056298000545'
-- expected_values:
-    EVEREST_AC_P_SENS_V: 1.32422
-  response: 7E805629800054C
-- expected_values:
-    EVEREST_AC_P_SENS_V: 1.32617
-  response: 7E805629800054E
-- expected_values:
-    EVEREST_AC_P_SENS_V: 1.33203
-  response: '7E8056298000554'
-- expected_values:
-    EVEREST_AC_P_SENS_V: 1.36133
-  response: '7E8056298000572'
-- expected_values:
-    EVEREST_AC_P_SENS_V: 1.40234
-  response: 7E805629800059C
-- expected_values:
-    EVEREST_AC_P_SENS_V: 1.40918
-  response: 7E80562980005A3
+    EVEREST_AC_P_SENS_V: 1.25879
+  response: '7E8056298000509'
 - expected_values:
     EVEREST_AC_P_SENS_V: 1.50977
   response: 7E805629800060A

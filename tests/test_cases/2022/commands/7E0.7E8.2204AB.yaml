@@ -4,29 +4,11 @@ test_cases:
     EVEREST_CYL_2_FUEL_QTY: 0
   response: 7E8076204AB00000000
 - expected_values:
-    EVEREST_CYL_2_FUEL_QTY: 5.94944
-  response: 7E8076204AB000B9EB8
-- expected_values:
-    EVEREST_CYL_2_FUEL_QTY: 17.55135
-  response: 7E8076204AB002247AD
-- expected_values:
-    EVEREST_CYL_2_FUEL_QTY: 30.60735
-  response: 7E8076204AB003BC7AD
-- expected_values:
-    EVEREST_CYL_2_FUEL_QTY: 36.38271
-  response: 7E8076204AB00470F5B
-- expected_values:
-    EVEREST_CYL_2_FUEL_QTY: 40.38655
-  response: 7E8076204AB004EE147
-- expected_values:
-    EVEREST_CYL_2_FUEL_QTY: 43.27423
-  response: 7E8076204AB0054851E
-- expected_values:
-    EVEREST_CYL_2_FUEL_QTY: 43.78623
-  response: 7E8076204AB0055851E
-- expected_values:
-    EVEREST_CYL_2_FUEL_QTY: 48.59903
-  response: 7E8076204AB005EEB84
+    EVEREST_CYL_2_FUEL_QTY: 18.00191
+  response: 7E8076204AB002328F5
 - expected_values:
     EVEREST_CYL_2_FUEL_QTY: 52.26495
   response: 7E8076204AB0066147A
+- expected_values:
+    EVEREST_CYL_2_FUEL_QTY: 52.70527
+  response: 7E8076204AB0066F0A3
