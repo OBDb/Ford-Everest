@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22054C
+test_cases:
+- expected_values:
+    EVEREST_DILUTION_OIL_FUEL: 1
+  response: 7E80462054C01

@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.22DD01
+test_cases:
+- expected_values:
+    EVEREST_TRANS_ODO: 77542
+  response: 7E90662DD01012EE6
+- expected_values:
+    EVEREST_TRANS_ODO: 77543
+  response: 7E90662DD01012EE7
+- expected_values:
+    EVEREST_TRANS_ODO: 77544
+  response: 7E90662DD01012EE8
+- expected_values:
+    EVEREST_TRANS_ODO: 77545
+  response: 7E90662DD01012EE9

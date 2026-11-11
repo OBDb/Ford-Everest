@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.224195
+test_cases:
+- expected_values:
+    EVEREST_DTE_DISP: 149.2
+  response: 7E80562419505D4
+- expected_values:
+    EVEREST_DTE_DISP: 149.7
+  response: 7E80562419505D9
+- expected_values:
+    EVEREST_DTE_DISP: 150.2
+  response: 7E80562419505DE
+- expected_values:
+    EVEREST_DTE_DISP: 150.6
+  response: 7E80562419505E2
+- expected_values:
+    EVEREST_DTE_DISP: 151.1
+  response: 7E80562419505E7
+- expected_values:
+    EVEREST_DTE_DISP: 151.6
+  response: 7E80562419505EC
+- expected_values:
+    EVEREST_DTE_DISP: 152
+  response: 7E80562419505F0
+- expected_values:
+    EVEREST_DTE_DISP: 152.4
+  response: 7E80562419505F4
+- expected_values:
+    EVEREST_DTE_DISP: 152.9
+  response: 7E80562419505F9
+- expected_values:
+    EVEREST_DTE_DISP: 153.4
+  response: 7E80562419505FE

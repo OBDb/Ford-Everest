@@ -1,0 +1,17 @@
+command_id: 760.768.222B0D
+test_cases:
+- expected_values:
+    EVEREST_BRK_FL_P: 0
+  response: 76805622B0D0000
+- expected_values:
+    EVEREST_BRK_FL_P: 2
+  response: 76805622B0D0002
+- expected_values:
+    EVEREST_BRK_FL_P: 18
+  response: 76805622B0D0012
+- expected_values:
+    EVEREST_BRK_FL_P: 50
+  response: 76805622B0D0032
+- expected_values:
+    EVEREST_BRK_FL_P: 91
+  response: 76805622B0D005B

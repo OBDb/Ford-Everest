@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    EVEREST_PCM_VEH_ODO: 77542.7
+  response: 7E80762F4A6000BD503
+- expected_values:
+    EVEREST_PCM_VEH_ODO: 77543.2
+  response: 7E80762F4A6000BD508
+- expected_values:
+    EVEREST_PCM_VEH_ODO: 77543.4
+  response: 7E80762F4A6000BD50A
+- expected_values:
+    EVEREST_PCM_VEH_ODO: 77543.7
+  response: 7E80762F4A6000BD50D
+- expected_values:
+    EVEREST_PCM_VEH_ODO: 77544
+  response: 7E80762F4A6000BD510
+- expected_values:
+    EVEREST_PCM_VEH_ODO: 77544.3
+  response: 7E80762F4A6000BD513
+- expected_values:
+    EVEREST_PCM_VEH_ODO: 77544.6
+  response: 7E80762F4A6000BD516
+- expected_values:
+    EVEREST_PCM_VEH_ODO: 77545
+  response: 7E80762F4A6000BD51A
+- expected_values:
+    EVEREST_PCM_VEH_ODO: 77545.2
+  response: 7E80762F4A6000BD51C

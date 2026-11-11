@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22052E
+test_cases:
+- expected_values:
+    EVEREST_EGR_OPEN: 0
+  response: 7E80462052E00
+- expected_values:
+    EVEREST_EGR_OPEN: 5.09804
+  response: 7E80462052E0D
+- expected_values:
+    EVEREST_EGR_OPEN: 6.66667
+  response: 7E80462052E11
+- expected_values:
+    EVEREST_EGR_OPEN: 20
+  response: 7E80462052E33
+- expected_values:
+    EVEREST_EGR_OPEN: 26.27451
+  response: 7E80462052E43
+- expected_values:
+    EVEREST_EGR_OPEN: 30.98039
+  response: 7E80462052E4F
+- expected_values:
+    EVEREST_EGR_OPEN: 35.68627
+  response: 7E80462052E5B
+- expected_values:
+    EVEREST_EGR_OPEN: 59.21569
+  response: 7E80462052E97

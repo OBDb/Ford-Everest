@@ -1,0 +1,23 @@
+command_id: 764.76C.22A224
+test_cases:
+- expected_values:
+    EVEREST_CC_TGT_VSS: 0
+  response: 76C0562A2240000
+- expected_values:
+    EVEREST_CC_TGT_VSS: -46.8
+  response: 76C0562A224FF7E
+- expected_values:
+    EVEREST_CC_TGT_VSS: -43.2
+  response: 76C0562A224FF88
+- expected_values:
+    EVEREST_CC_TGT_VSS: -32.4
+  response: 76C0562A224FFA6
+- expected_values:
+    EVEREST_CC_TGT_VSS: -28.8
+  response: 76C0562A224FFB0
+- expected_values:
+    EVEREST_CC_TGT_VSS: -18
+  response: 76C0562A224FFCE
+- expected_values:
+    EVEREST_CC_TGT_VSS: -14.4
+  response: 76C0562A224FFD8

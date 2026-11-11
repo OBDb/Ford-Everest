@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220542
+test_cases:
+- expected_values:
+    EVEREST_DIST_SINCE_OIL: 3249
+  response: 7E8056205420CB1
+- expected_values:
+    EVEREST_DIST_SINCE_OIL: 3250
+  response: 7E8056205420CB2
+- expected_values:
+    EVEREST_DIST_SINCE_OIL: 3251
+  response: 7E8056205420CB3
+- expected_values:
+    EVEREST_DIST_SINCE_OIL: 3252
+  response: 7E8056205420CB4

@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221505
+test_cases:
+- expected_values:
+    EVEREST_VSS_HD: 16.96875
+  response: 7E805621505087C
+- expected_values:
+    EVEREST_VSS_HD: 17.54688
+  response: 7E80562150508C6
+- expected_values:
+    EVEREST_VSS_HD: 25.49219
+  response: 7E8056215050CBF
+- expected_values:
+    EVEREST_VSS_HD: 25.625
+  response: 7E8056215050CD0
+- expected_values:
+    EVEREST_VSS_HD: 27.64844
+  response: 7E8056215050DD3
+- expected_values:
+    EVEREST_VSS_HD: 28.90625
+  response: 7E8056215050E74
+- expected_values:
+    EVEREST_VSS_HD: 34.3125
+  response: '7E8056215051128'
+- expected_values:
+    EVEREST_VSS_HD: 41.89844
+  response: 7E80562150514F3
+- expected_values:
+    EVEREST_VSS_HD: 44.40625
+  response: '7E8056215051634'
+- expected_values:
+    EVEREST_VSS_HD: 47.03906
+  response: '7E8056215051785'

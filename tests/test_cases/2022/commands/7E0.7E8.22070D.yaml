@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22070D
+test_cases:
+- expected_values:
+    EVEREST_TRANSFER_CASE_FLUID_T: -0.0625
+  response: 7E80562070DFFFF

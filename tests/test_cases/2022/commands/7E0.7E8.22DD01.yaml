@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22DD01
+test_cases:
+- expected_values:
+    EVEREST_ODO_7E0: 77542
+  response: 7E80662DD01012EE6
+- expected_values:
+    EVEREST_ODO_7E0: 77543
+  response: 7E80662DD01012EE7
+- expected_values:
+    EVEREST_ODO_7E0: 77544
+  response: 7E80662DD01012EE8
+- expected_values:
+    EVEREST_ODO_7E0: 77545
+  response: 7E80662DD01012EE9

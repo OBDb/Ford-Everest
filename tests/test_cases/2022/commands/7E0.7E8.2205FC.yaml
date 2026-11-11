@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2205FC
+test_cases:
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_SENS_2_RAW: 37.67188
+  response: 7E8056205FC096B
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_SENS_2_RAW: 42.85938
+  response: 7E8056205FC0AB7
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_SENS_2_RAW: 53.17188
+  response: 7E8056205FC0D4B
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_SENS_2_RAW: 57.35938
+  response: 7E8056205FC0E57
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_SENS_2_RAW: 62.35938
+  response: 7E8056205FC0F97
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_SENS_2_RAW: 65.17188
+  response: 7E8056205FC104B
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_SENS_2_RAW: 70.67188
+  response: 7E8056205FC11AB
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_SENS_2_RAW: 73.0625
+  response: 7E8056205FC1244
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_SENS_2_RAW: 80.96875
+  response: 7E8056205FC143E
+- expected_values:
+    EVEREST_PCM_CYL_HEAD_T_SENS_2_RAW: 84.46875
+  response: 7E8056205FC151E

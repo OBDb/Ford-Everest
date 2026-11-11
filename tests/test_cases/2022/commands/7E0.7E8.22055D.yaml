@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22055D
+test_cases:
+- expected_values:
+    EVEREST_EGR_COOLER_OUTLET_T: -0.0312
+  response: 7E80562055DFFFF

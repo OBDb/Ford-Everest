@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221E62
+test_cases:
+- expected_values:
+    EVEREST_AWD_CLU_DIAGNOSTIC: 0
+  response: 7E804621E6200

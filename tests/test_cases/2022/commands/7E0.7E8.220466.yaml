@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220466
+test_cases:
+- expected_values:
+    EVEREST_TIP_DES_ABS: 14.48755
+  response: '7E8056204663326'
+- expected_values:
+    EVEREST_TIP_DES_ABS: 14.57274
+  response: '7E8056204663373'
+- expected_values:
+    EVEREST_TIP_DES_ABS: 16.62627
+  response: 7E8056204663AB3
+- expected_values:
+    EVEREST_TIP_DES_ABS: 17.17837
+  response: 7E8056204663CA6
+- expected_values:
+    EVEREST_TIP_DES_ABS: 23.86229
+  response: 7E805620466543F
+- expected_values:
+    EVEREST_TIP_DES_ABS: 33.13857
+  response: 7E80562046674FF
+- expected_values:
+    EVEREST_TIP_DES_ABS: 33.94626
+  response: 7E80562046677D9
+- expected_values:
+    EVEREST_TIP_DES_ABS: 34.61233
+  response: 7E8056204667A33
+- expected_values:
+    EVEREST_TIP_DES_ABS: 39.92318
+  response: 7E8056204668CF3
+- expected_values:
+    EVEREST_TIP_DES_ABS: 41.19778
+  response: '7E8056204669173'

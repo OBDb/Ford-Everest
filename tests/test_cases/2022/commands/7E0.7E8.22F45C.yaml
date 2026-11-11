@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F45C
+test_cases:
+- expected_values:
+    EVEREST_EOT_F45C: 22
+  response: 7E80462F45C3E
+- expected_values:
+    EVEREST_EOT_F45C: 23
+  response: 7E80462F45C3F
+- expected_values:
+    EVEREST_EOT_F45C: 29
+  response: 7E80462F45C45
+- expected_values:
+    EVEREST_EOT_F45C: 33
+  response: 7E80462F45C49
+- expected_values:
+    EVEREST_EOT_F45C: 36
+  response: 7E80462F45C4C
+- expected_values:
+    EVEREST_EOT_F45C: 41
+  response: 7E80462F45C51
+- expected_values:
+    EVEREST_EOT_F45C: 45
+  response: 7E80462F45C55
+- expected_values:
+    EVEREST_EOT_F45C: 49
+  response: 7E80462F45C59
+- expected_values:
+    EVEREST_EOT_F45C: 53
+  response: 7E80462F45C5D
+- expected_values:
+    EVEREST_EOT_F45C: 58
+  response: 7E80462F45C62
