@@ -4,5 +4,5 @@ test_cases:
     EVEREST_SUMP_OIL_T_MEAS: 21
   response: 7E8046203F33D
 - expected_values:
-    EVEREST_SUMP_OIL_T_MEAS: 70
-  response: 7E8046203F36E
+    EVEREST_SUMP_OIL_T_MEAS: 93
+  response: 7E8046203F385

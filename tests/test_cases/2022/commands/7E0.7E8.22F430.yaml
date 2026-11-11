@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     EVEREST_WARMUP_CLR: 202
   response: 7E80462F430CA
+- expected_values:
+    EVEREST_WARMUP_CLR: 203
+  response: 7E80462F430CB

@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22053F
 test_cases:
 - expected_values:
+    EVEREST_TIME_SINCE_OIL: 0
+  response: 7E80562053F0000
+- expected_values:
     EVEREST_TIME_SINCE_OIL: 81.98672
   response: 7E80562053F14FD

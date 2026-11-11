@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22F446
 test_cases:
 - expected_values:
+    EVEREST_AAT_7E0: 15
+  response: 7E80462F44637
+- expected_values:
     EVEREST_AAT_7E0: 16
   response: 7E80462F44638
 - expected_values:

@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     EVEREST_PCM_VEH_ODO: 77551
   response: 7E80762F4A6000BD556
+- expected_values:
+    EVEREST_PCM_VEH_ODO: 77571.1
+  response: 7E80762F4A6000BD61F

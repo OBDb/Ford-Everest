@@ -4,29 +4,5 @@ test_cases:
     EVEREST_BRK_FL_P: 0
   response: 76805622B0D0000
 - expected_values:
-    EVEREST_BRK_FL_P: 1
-  response: 76805622B0D0001
-- expected_values:
-    EVEREST_BRK_FL_P: 2
-  response: 76805622B0D0002
-- expected_values:
-    EVEREST_BRK_FL_P: 15
-  response: 76805622B0D000F
-- expected_values:
-    EVEREST_BRK_FL_P: 18
-  response: 76805622B0D0012
-- expected_values:
-    EVEREST_BRK_FL_P: 22
-  response: 76805622B0D0016
-- expected_values:
-    EVEREST_BRK_FL_P: 40
-  response: 76805622B0D0028
-- expected_values:
-    EVEREST_BRK_FL_P: 50
-  response: 76805622B0D0032
-- expected_values:
-    EVEREST_BRK_FL_P: 91
-  response: 76805622B0D005B
-- expected_values:
     EVEREST_BRK_FL_P: 100
   response: 76805622B0D0064

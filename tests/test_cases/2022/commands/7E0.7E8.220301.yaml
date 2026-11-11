@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220301
 test_cases:
 - expected_values:
-    EVEREST_MAP_V: 1.21094
-  response: 7E80562030104D8
+    EVEREST_MAP_V: 1.18555
+  response: 7E80562030104BE
 - expected_values:
-    EVEREST_MAP_V: 1.24512
-  response: 7E80562030104FB
+    EVEREST_MAP_V: 1.24902
+  response: 7E80562030104FF
 - expected_values:
-    EVEREST_MAP_V: 1.50684
-  response: '7E8056203010607'
+    EVEREST_MAP_V: 1.25195
+  response: '7E8056203010502'
 - expected_values:
     EVEREST_MAP_V: 2.32617
   response: 7E805620301094E

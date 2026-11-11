@@ -23,6 +23,11 @@ test_cases:
 - expected_values:
     EVEREST_EGT_B1: 140.3
   response: |-
+    7E8100C62F478070B3A
+    7E8210C0F0C0F76E4CC
+- expected_values:
+    EVEREST_EGT_B1: 140.3
+  response: |-
     7E8100C62F478070BFD
     7E8210B290B2976E4CC
 - expected_values:

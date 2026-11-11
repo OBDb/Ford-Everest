@@ -4,5 +4,5 @@ test_cases:
     EVEREST_EXH_GAS_T_1: 100
   response: 7E8046203F414
 - expected_values:
-    EVEREST_EXH_GAS_T_1: 275
-  response: 7E8046203F437
+    EVEREST_EXH_GAS_T_1: 285
+  response: 7E8046203F439

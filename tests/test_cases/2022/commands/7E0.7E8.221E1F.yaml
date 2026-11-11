@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     EVEREST_GEAR_ENG: '5'
   response: 7E804621E1F05
+- expected_values:
+    EVEREST_GEAR_ENG: PARK
+  response: 7E804621E1F46

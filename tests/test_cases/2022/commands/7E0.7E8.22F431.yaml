@@ -4,20 +4,5 @@ test_cases:
     EVEREST_DIST_DTC_CLR: 3251
   response: 7E80562F4310CB3
 - expected_values:
-    EVEREST_DIST_DTC_CLR: 3252
-  response: 7E80562F4310CB4
-- expected_values:
-    EVEREST_DIST_DTC_CLR: 3253
-  response: 7E80562F4310CB5
-- expected_values:
-    EVEREST_DIST_DTC_CLR: 3256
-  response: 7E80562F4310CB8
-- expected_values:
-    EVEREST_DIST_DTC_CLR: 3257
-  response: 7E80562F4310CB9
-- expected_values:
-    EVEREST_DIST_DTC_CLR: 3258
-  response: 7E80562F4310CBA
-- expected_values:
-    EVEREST_DIST_DTC_CLR: 3259
-  response: 7E80562F4310CBB
+    EVEREST_DIST_DTC_CLR: 3282
+  response: 7E80562F4310CD2
