@@ -4,23 +4,8 @@ test_cases:
     EVEREST_ODO_7E0: 77542
   response: 7E80662DD01012EE6
 - expected_values:
-    EVEREST_ODO_7E0: 77543
-  response: 7E80662DD01012EE7
-- expected_values:
-    EVEREST_ODO_7E0: 77544
-  response: 7E80662DD01012EE8
-- expected_values:
-    EVEREST_ODO_7E0: 77545
-  response: 7E80662DD01012EE9
-- expected_values:
-    EVEREST_ODO_7E0: 77548
-  response: 7E80662DD01012EEC
-- expected_values:
-    EVEREST_ODO_7E0: 77549
-  response: 7E80662DD01012EED
-- expected_values:
-    EVEREST_ODO_7E0: 77550
-  response: 7E80662DD01012EEE
-- expected_values:
     EVEREST_ODO_7E0: 77551
   response: 7E80662DD01012EEF
+- expected_values:
+    EVEREST_ODO_7E0: 77571
+  response: 7E80662DD01012F03

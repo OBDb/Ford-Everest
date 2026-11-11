@@ -13,5 +13,14 @@ test_cases:
     EVEREST_GRILL_SHUT_DC: 54.90196
   response: 7E8046207078C
 - expected_values:
+    EVEREST_GRILL_SHUT_DC: 62.7451
+  response: 7E804620707A0
+- expected_values:
+    EVEREST_GRILL_SHUT_DC: 70.98039
+  response: 7E804620707B5
+- expected_values:
     EVEREST_GRILL_SHUT_DC: 89.80392
   response: 7E804620707E5
+- expected_values:
+    EVEREST_GRILL_SHUT_DC: 100
+  response: 7E804620707FF

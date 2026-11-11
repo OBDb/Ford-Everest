@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.229800
 test_cases:
 - expected_values:
-    EVEREST_AC_P_SENS_V: 1.1582
-  response: 7E80562980004A2
+    EVEREST_AC_P_SENS_V: 1.06055
+  response: 7E805629800043E
 - expected_values:
-    EVEREST_AC_P_SENS_V: 1.23828
-  response: 7E80562980004F4
+    EVEREST_AC_P_SENS_V: 1.24219
+  response: 7E80562980004F8
 - expected_values:
     EVEREST_AC_P_SENS_V: 1.25879
   response: '7E8056298000509'

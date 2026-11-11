@@ -4,8 +4,8 @@ test_cases:
     EVEREST_VSS_HD: 0
   response: '7E8056215050000'
 - expected_values:
-    EVEREST_VSS_HD: 41.89844
-  response: 7E80562150514F3
+    EVEREST_VSS_HD: 59.96875
+  response: 7E8056215051DFC
 - expected_values:
     EVEREST_VSS_HD: 65.66406
   response: 7E80562150520D5

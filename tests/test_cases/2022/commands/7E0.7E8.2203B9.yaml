@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2203B9
 test_cases:
 - expected_values:
-    EVEREST_FAN_SPD_DES: 20.99641
-  response: 7E8056203B91AE0
+    EVEREST_FAN_SPD_DES: 4.99275
+  response: 7E8056203B90664
 - expected_values:
     EVEREST_FAN_SPD_DES: 21.16732
   response: 7E8056203B91B18

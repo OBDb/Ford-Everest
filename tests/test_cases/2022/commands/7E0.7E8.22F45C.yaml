@@ -4,5 +4,5 @@ test_cases:
     EVEREST_EOT_F45C: 22
   response: 7E80462F45C3E
 - expected_values:
-    EVEREST_EOT_F45C: 70
-  response: 7E80462F45C6E
+    EVEREST_EOT_F45C: 93
+  response: 7E80462F45C85

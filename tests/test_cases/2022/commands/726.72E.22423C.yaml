@@ -1,11 +1,14 @@
 command_id: 726.72E.22423C
 test_cases:
 - expected_values:
-    EVEREST_VEH_BAT_B_CURRENT: 17.125
-  response: 72E0562423C0224
-- expected_values:
-    EVEREST_VEH_BAT_B_CURRENT: 23.71875
-  response: 72E0562423C02F7
+    EVEREST_VEH_BAT_B_CURRENT: 11.5625
+  response: 72E0562423C0172
 - expected_values:
     EVEREST_VEH_BAT_B_CURRENT: 48.09375
   response: 72E0562423C0603
+- expected_values:
+    EVEREST_VEH_BAT_B_CURRENT: -9.8125
+  response: 72E0562423CFEC6
+- expected_values:
+    EVEREST_VEH_BAT_B_CURRENT: -8.1875
+  response: 72E0562423CFEFA

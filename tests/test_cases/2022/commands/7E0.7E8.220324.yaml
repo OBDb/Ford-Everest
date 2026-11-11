@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220324
 test_cases:
 - expected_values:
-    EVEREST_HPFP_V: 0.86999
-  response: 7E80562032400B2
+    EVEREST_HPFP_V: 0.50342
+  response: '7E8056203240067'
 - expected_values:
     EVEREST_HPFP_V: 1.13392
   response: 7E80562032400E8

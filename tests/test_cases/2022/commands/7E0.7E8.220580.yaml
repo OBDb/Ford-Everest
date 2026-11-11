@@ -4,17 +4,5 @@ test_cases:
     EVEREST_GRILL_SHUTTER_POS: 0
   response: '7E80462058000'
 - expected_values:
-    EVEREST_GRILL_SHUTTER_POS: 6.66667
-  response: '7E80462058011'
-- expected_values:
-    EVEREST_GRILL_SHUTTER_POS: 7.84314
-  response: '7E80462058014'
-- expected_values:
-    EVEREST_GRILL_SHUTTER_POS: 12.54902
-  response: '7E80462058020'
-- expected_values:
-    EVEREST_GRILL_SHUTTER_POS: 43.13725
-  response: 7E8046205806E
-- expected_values:
-    EVEREST_GRILL_SHUTTER_POS: 62.7451
-  response: 7E804620580A0
+    EVEREST_GRILL_SHUTTER_POS: 100
+  response: 7E804620580FF

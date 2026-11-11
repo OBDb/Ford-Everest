@@ -4,8 +4,8 @@ test_cases:
     EVEREST_VOLUME_FUEL_DES: 0
   response: '7E8056214110000'
 - expected_values:
-    EVEREST_VOLUME_FUEL_DES: 29.0625
-  response: 7E80562141101D1
+    EVEREST_VOLUME_FUEL_DES: 31.875
+  response: 7E80562141101FE
 - expected_values:
     EVEREST_VOLUME_FUEL_DES: 80.3125
   response: '7E8056214110505'

@@ -1,26 +1,11 @@
 command_id: 7E0.7E8.220542
 test_cases:
 - expected_values:
+    EVEREST_DIST_SINCE_OIL: 0
+  response: '7E8056205420000'
+- expected_values:
     EVEREST_DIST_SINCE_OIL: 3249
   response: 7E8056205420CB1
 - expected_values:
-    EVEREST_DIST_SINCE_OIL: 3250
-  response: 7E8056205420CB2
-- expected_values:
-    EVEREST_DIST_SINCE_OIL: 3251
-  response: 7E8056205420CB3
-- expected_values:
-    EVEREST_DIST_SINCE_OIL: 3252
-  response: 7E8056205420CB4
-- expected_values:
-    EVEREST_DIST_SINCE_OIL: 3255
-  response: 7E8056205420CB7
-- expected_values:
-    EVEREST_DIST_SINCE_OIL: 3256
-  response: 7E8056205420CB8
-- expected_values:
-    EVEREST_DIST_SINCE_OIL: 3257
-  response: 7E8056205420CB9
-- expected_values:
-    EVEREST_DIST_SINCE_OIL: 3258
-  response: 7E8056205420CBA
+    EVEREST_DIST_SINCE_OIL: 3280
+  response: 7E8056205420CD0

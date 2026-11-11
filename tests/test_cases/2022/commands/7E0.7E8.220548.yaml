@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.220548
 test_cases:
 - expected_values:
-    EVEREST_LPFP_ACT: 78.1046
-  response: '7E8056205480435'
+    EVEREST_LPFP_ACT: 13.70638
+  response: 7E80562054800BD
 - expected_values:
-    EVEREST_LPFP_ACT: 86.44446
-  response: 7E80562054804A8
+    EVEREST_LPFP_ACT: 13.7789
+  response: 7E80562054800BE
+- expected_values:
+    EVEREST_LPFP_ACT: 77.52444
+  response: 7E805620548042D

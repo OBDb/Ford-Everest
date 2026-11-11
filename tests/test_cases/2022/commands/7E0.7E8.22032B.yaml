@@ -16,6 +16,9 @@ test_cases:
     EVEREST_ACC_POS: 12
   response: 7E80462032B18
 - expected_values:
+    EVEREST_ACC_POS: 13.5
+  response: 7E80462032B1B
+- expected_values:
     EVEREST_ACC_POS: 16
   response: 7E80462032B20
 - expected_values:

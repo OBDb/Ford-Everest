@@ -4,5 +4,5 @@ test_cases:
     EVEREST_AAT_V: 2.6393
   response: 7E8056203BA021C
 - expected_values:
-    EVEREST_AAT_V: 3.16227
-  response: 7E8056203BA0287
+    EVEREST_AAT_V: 3.24536
+  response: 7E8056203BA0298

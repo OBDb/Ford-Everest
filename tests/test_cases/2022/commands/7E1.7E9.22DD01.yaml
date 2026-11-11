@@ -21,3 +21,12 @@ test_cases:
 - expected_values:
     EVEREST_TRANS_ODO: 77550
   response: 7E90662DD01012EEE
+- expected_values:
+    EVEREST_TRANS_ODO: 77571
+  response: 7E90662DD01012F03
+- expected_values:
+    EVEREST_TRANS_ODO: 77572
+  response: 7E90662DD01012F04
+- expected_values:
+    EVEREST_TRANS_ODO: 77573
+  response: 7E90662DD01012F05

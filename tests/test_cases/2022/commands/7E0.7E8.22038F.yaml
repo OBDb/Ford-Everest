@@ -7,5 +7,5 @@ test_cases:
     EVEREST_ECT: 59.85938
   response: 7E80562038F0EF7
 - expected_values:
-    EVEREST_ECT: 78.35938
-  response: 7E80562038F1397
+    EVEREST_ECT: 92.96875
+  response: 7E80562038F173E

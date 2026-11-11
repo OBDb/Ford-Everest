@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     EVEREST_ENG_FUEL_RATE: 11.75
   response: 7E80562F45E00EB
+- expected_values:
+    EVEREST_ENG_FUEL_RATE: 13.55
+  response: 7E80562F45E010F
