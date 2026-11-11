@@ -1,0 +1,26 @@
+command_id: 760.768.222B07
+test_cases:
+- expected_values:
+    EVEREST_FL_VSS: 0
+  response: 76804622B0700
+- expected_values:
+    EVEREST_FL_VSS: 3
+  response: 76804622B0703
+- expected_values:
+    EVEREST_FL_VSS: 22
+  response: 76804622B0716
+- expected_values:
+    EVEREST_FL_VSS: 32
+  response: 76804622B0720
+- expected_values:
+    EVEREST_FL_VSS: 33
+  response: 76804622B0721
+- expected_values:
+    EVEREST_FL_VSS: 37
+  response: 76804622B0725
+- expected_values:
+    EVEREST_FL_VSS: 42
+  response: 76804622B072A
+- expected_values:
+    EVEREST_FL_VSS: 50
+  response: 76804622B0732

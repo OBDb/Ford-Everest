@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2205BE
+test_cases:
+- expected_values:
+    EVEREST_TURBO_INLET_P: 100.25
+  response: 7E8056205BE0644
+- expected_values:
+    EVEREST_TURBO_INLET_P: 101.1875
+  response: 7E8056205BE0653
+- expected_values:
+    EVEREST_TURBO_INLET_P: 102.4375
+  response: 7E8056205BE0667
+- expected_values:
+    EVEREST_TURBO_INLET_P: 106.4375
+  response: 7E8056205BE06A7
+- expected_values:
+    EVEREST_TURBO_INLET_P: 110.25
+  response: 7E8056205BE06E4
+- expected_values:
+    EVEREST_TURBO_INLET_P: 119.4375
+  response: 7E8056205BE0777
+- expected_values:
+    EVEREST_TURBO_INLET_P: 127.375
+  response: 7E8056205BE07F6
+- expected_values:
+    EVEREST_TURBO_INLET_P: 132.375
+  response: 7E8056205BE0846
+- expected_values:
+    EVEREST_TURBO_INLET_P: 142.0625
+  response: 7E8056205BE08E1
+- expected_values:
+    EVEREST_TURBO_INLET_P: 146.25
+  response: 7E8056205BE0924

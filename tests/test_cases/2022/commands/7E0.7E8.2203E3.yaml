@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2203E3
+test_cases:
+- expected_values:
+    EVEREST_PF_DIFF_P_FEEDBACK_V: 0
+  response: 7E8056203E30000
+- expected_values:
+    EVEREST_PF_DIFF_P_FEEDBACK_V: 0.00098
+  response: 7E8056203E30001

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22098D
+test_cases:
+- expected_values:
+    EVEREST_FUEL_CORR_CYL_4: 0
+  response: 7E80762098D00000000

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221E63
+test_cases:
+- expected_values:
+    EVEREST_AWD_CLU_CMD_CTRL_SIG: 91.76471
+  response: 7E804621E63EA

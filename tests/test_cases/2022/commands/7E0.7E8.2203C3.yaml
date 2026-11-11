@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2203C3
+test_cases:
+- expected_values:
+    EVEREST_FUEL_RAIL_P_CTRL: 0
+  response: 7E8046203C300

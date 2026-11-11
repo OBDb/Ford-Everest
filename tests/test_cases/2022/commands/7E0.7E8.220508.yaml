@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220508
+test_cases:
+- expected_values:
+    EVEREST_CHG_AIR_COOLER_T: 0
+  response: '7E8056205080000'

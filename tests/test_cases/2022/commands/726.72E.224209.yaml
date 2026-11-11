@@ -1,0 +1,29 @@
+command_id: 726.72E.224209
+test_cases:
+- expected_values:
+    EVEREST_BAT_CURRENT: 19.75
+  response: 72E0762420900004F00
+- expected_values:
+    EVEREST_BAT_CURRENT: 20.75
+  response: '72E0762420900005380'
+- expected_values:
+    EVEREST_BAT_CURRENT: 20.75
+  response: 72E07624209000053A0
+- expected_values:
+    EVEREST_BAT_CURRENT: 21
+  response: 72E07624209000054E0
+- expected_values:
+    EVEREST_BAT_CURRENT: 21.5
+  response: '72E0762420900005620'
+- expected_values:
+    EVEREST_BAT_CURRENT: 21.75
+  response: '72E0762420900005740'
+- expected_values:
+    EVEREST_BAT_CURRENT: 21.75
+  response: '72E0762420900005780'
+- expected_values:
+    EVEREST_BAT_CURRENT: 31.25
+  response: 72E0762420900007DE0
+- expected_values:
+    EVEREST_BAT_CURRENT: 31.5
+  response: 72E0762420900007EA0

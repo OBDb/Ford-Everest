@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220569
+test_cases:
+- expected_values:
+    EVEREST_EGR_COOLER_INLET_T: 199.6488
+  response: 7E80562056918FF

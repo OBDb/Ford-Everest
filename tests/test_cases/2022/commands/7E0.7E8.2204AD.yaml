@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2204AD
+test_cases:
+- expected_values:
+    EVEREST_CYL_4_FUEL_QTY: 10.0352
+  response: 7E8076204AD00139999
+- expected_values:
+    EVEREST_CYL_4_FUEL_QTY: 15.7184
+  response: 7E8076204AD001EB333
+- expected_values:
+    EVEREST_CYL_4_FUEL_QTY: 17.37727
+  response: 7E8076204AD0021F0A3
+- expected_values:
+    EVEREST_CYL_4_FUEL_QTY: 23.73631
+  response: 7E8076204AD002E5C28
+- expected_values:
+    EVEREST_CYL_4_FUEL_QTY: 28.81535
+  response: 7E8076204AD003847AD
+- expected_values:
+    EVEREST_CYL_4_FUEL_QTY: 32.80895
+  response: 7E8076204AD0040147A
+- expected_values:
+    EVEREST_CYL_4_FUEL_QTY: 41.90207
+  response: 7E8076204AD0051D709
+- expected_values:
+    EVEREST_CYL_4_FUEL_QTY: 45.95711
+  response: 7E8076204AD0059C28E
+- expected_values:
+    EVEREST_CYL_4_FUEL_QTY: 46.39743
+  response: 7E8076204AD005A9EB7
+- expected_values:
+    EVEREST_CYL_4_FUEL_QTY: 52.69503
+  response: 7E8076204AD0066EB84

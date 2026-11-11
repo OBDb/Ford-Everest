@@ -1,0 +1,29 @@
+command_id: 760.768.222B09
+test_cases:
+- expected_values:
+    EVEREST_RL_VSS: 0
+  response: 76804622B0900
+- expected_values:
+    EVEREST_RL_VSS: 5
+  response: 76804622B0905
+- expected_values:
+    EVEREST_RL_VSS: 24
+  response: 76804622B0918
+- expected_values:
+    EVEREST_RL_VSS: 32
+  response: 76804622B0920
+- expected_values:
+    EVEREST_RL_VSS: 34
+  response: 76804622B0922
+- expected_values:
+    EVEREST_RL_VSS: 35
+  response: 76804622B0923
+- expected_values:
+    EVEREST_RL_VSS: 37
+  response: 76804622B0925
+- expected_values:
+    EVEREST_RL_VSS: 42
+  response: 76804622B092A
+- expected_values:
+    EVEREST_RL_VSS: 50
+  response: 76804622B0932

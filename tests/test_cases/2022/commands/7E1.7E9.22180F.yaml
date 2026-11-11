@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22180F
+test_cases:
+- expected_values:
+    EVEREST_TRANS_FLUID_FLUID: 3
+  response: 7E90462180F03
