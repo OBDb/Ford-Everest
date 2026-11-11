@@ -7,5 +7,5 @@ test_cases:
     EVEREST_RUN_TIME: 255
   response: 7E80562F41F00FF
 - expected_values:
-    EVEREST_RUN_TIME: 273
-  response: 7E80562F41F0111
+    EVEREST_RUN_TIME: 265
+  response: 7E80562F41F0109

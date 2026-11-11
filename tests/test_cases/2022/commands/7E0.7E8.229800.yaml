@@ -10,5 +10,5 @@ test_cases:
     EVEREST_AC_P_SENS_V: 1.25879
   response: '7E8056298000509'
 - expected_values:
-    EVEREST_AC_P_SENS_V: 1.50977
-  response: 7E805629800060A
+    EVEREST_AC_P_SENS_V: 1.83301
+  response: '7E8056298000755'
