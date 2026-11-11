@@ -4,11 +4,11 @@ test_cases:
     EVEREST_CYL_3_FUEL_QTY: 0
   response: 7E8076204AC00000000
 - expected_values:
+    EVEREST_CYL_3_FUEL_QTY: 9.20576
+  response: 7E8076204AC0011FAE1
+- expected_values:
     EVEREST_CYL_3_FUEL_QTY: 18.17599
   response: 7E8076204AC00237FFF
-- expected_values:
-    EVEREST_CYL_3_FUEL_QTY: 27.62752
-  response: 7E8076204AC0035F5C2
 - expected_values:
     EVEREST_CYL_3_FUEL_QTY: 47.65695
   response: 7E8076204AC005D147A

@@ -4,11 +4,11 @@ test_cases:
     EVEREST_FUEL_CORR_CYL_3: 0
   response: 7E80762098C00000000
 - expected_values:
-    EVEREST_FUEL_CORR_CYL_3: -0.5
-  response: 7E80762098CFFFF1C28
+    EVEREST_FUEL_CORR_CYL_3: -1
+  response: 7E80762098CFFFECA3D
 - expected_values:
     EVEREST_FUEL_CORR_CYL_3: -0.5
-  response: 7E80762098CFFFF35C2
+  response: 7E80762098CFFFF0A3D
 - expected_values:
     EVEREST_FUEL_CORR_CYL_3: -0.5
   response: 7E80762098CFFFFBAE1

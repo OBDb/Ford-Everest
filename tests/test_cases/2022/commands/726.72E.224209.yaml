@@ -7,8 +7,8 @@ test_cases:
     EVEREST_BAT_CURRENT: 8
   response: 72E07624209000020E0
 - expected_values:
-    EVEREST_BAT_CURRENT: 19.75
-  response: 72E0762420900004F00
+    EVEREST_BAT_CURRENT: 16.75
+  response: '72E0762420900004300'
 - expected_values:
     EVEREST_BAT_CURRENT: 31.5
   response: 72E0762420900007EA0

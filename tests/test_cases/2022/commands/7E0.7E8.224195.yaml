@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.224195
 test_cases:
 - expected_values:
-    EVEREST_DTE_DISP: 126
-  response: 7E80562419504EC
+    EVEREST_DTE_DISP: 125.6
+  response: 7E80562419504E8
 - expected_values:
     EVEREST_DTE_DISP: 128
   response: '7E8056241950500'
