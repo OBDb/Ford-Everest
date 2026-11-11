@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EVEREST_BAT_QUIESCENT: 376
   response: 72E056240250AC0
+- expected_values:
+    EVEREST_BAT_QUIESCENT: 382
+  response: 72E056240250ACC

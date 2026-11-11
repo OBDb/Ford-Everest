@@ -4,26 +4,5 @@ test_cases:
     EVEREST_FR_VSS: 0
   response: 76804622B0600
 - expected_values:
-    EVEREST_FR_VSS: 3
-  response: 76804622B0603
-- expected_values:
-    EVEREST_FR_VSS: 24
-  response: 76804622B0618
-- expected_values:
-    EVEREST_FR_VSS: 32
-  response: 76804622B0620
-- expected_values:
-    EVEREST_FR_VSS: 33
-  response: 76804622B0621
-- expected_values:
-    EVEREST_FR_VSS: 38
-  response: 76804622B0626
-- expected_values:
-    EVEREST_FR_VSS: 40
-  response: 76804622B0628
-- expected_values:
-    EVEREST_FR_VSS: 43
-  response: 76804622B062B
-- expected_values:
-    EVEREST_FR_VSS: 50
-  response: 76804622B0632
+    EVEREST_FR_VSS: 70
+  response: 76804622B0646

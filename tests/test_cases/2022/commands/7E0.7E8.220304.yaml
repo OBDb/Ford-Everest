@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.220304
 test_cases:
 - expected_values:
+    EVEREST_CMD_GEN_V: 14.45163
+  response: 7E80562030473AE
+- expected_values:
+    EVEREST_CMD_GEN_V: 14.47164
+  response: 7E80562030473D7
+- expected_values:
+    EVEREST_CMD_GEN_V: 14.49116
+  response: 7E80562030473FF
+- expected_values:
     EVEREST_CMD_GEN_V: 14.51117
   response: '7E8056203047428'
 - expected_values:

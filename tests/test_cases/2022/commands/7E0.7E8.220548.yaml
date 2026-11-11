@@ -4,29 +4,5 @@ test_cases:
     EVEREST_LPFP_ACT: 78.1046
   response: '7E8056205480435'
 - expected_values:
-    EVEREST_LPFP_ACT: 78.32217
-  response: '7E8056205480438'
-- expected_values:
-    EVEREST_LPFP_ACT: 78.61225
-  response: 7E805620548043C
-- expected_values:
-    EVEREST_LPFP_ACT: 79.62753
-  response: 7E805620548044A
-- expected_values:
-    EVEREST_LPFP_ACT: 80.13518
-  response: '7E8056205480451'
-- expected_values:
-    EVEREST_LPFP_ACT: 80.5703
-  response: '7E8056205480457'
-- expected_values:
-    EVEREST_LPFP_ACT: 81.07795
-  response: 7E805620548045E
-- expected_values:
-    EVEREST_LPFP_ACT: 82.31079
-  response: 7E805620548046F
-- expected_values:
-    EVEREST_LPFP_ACT: 83.10852
-  response: 7E805620548047A
-- expected_values:
     EVEREST_LPFP_ACT: 86.44446
   response: 7E80562054804A8

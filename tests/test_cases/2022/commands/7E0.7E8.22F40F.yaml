@@ -15,3 +15,12 @@ test_cases:
 - expected_values:
     EVEREST_IAT_ALT2: 23
   response: 7E80462F40F3F
+- expected_values:
+    EVEREST_IAT_ALT2: 24
+  response: 7E80462F40F40
+- expected_values:
+    EVEREST_IAT_ALT2: 28
+  response: 7E80462F40F44
+- expected_values:
+    EVEREST_IAT_ALT2: 30
+  response: 7E80462F40F46

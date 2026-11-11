@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.22F45E
 test_cases:
 - expected_values:
-    EVEREST_ENG_FUEL_RATE: 0.15
-  response: 7E80562F45E0003
-- expected_values:
-    EVEREST_ENG_FUEL_RATE: 1
-  response: 7E80562F45E0014
-- expected_values:
-    EVEREST_ENG_FUEL_RATE: 3
-  response: 7E80562F45E003C
-- expected_values:
-    EVEREST_ENG_FUEL_RATE: 3.75
-  response: 7E80562F45E004B
-- expected_values:
-    EVEREST_ENG_FUEL_RATE: 5.55
-  response: 7E80562F45E006F
-- expected_values:
-    EVEREST_ENG_FUEL_RATE: 6.75
-  response: 7E80562F45E0087
-- expected_values:
-    EVEREST_ENG_FUEL_RATE: 7.15
-  response: 7E80562F45E008F
-- expected_values:
-    EVEREST_ENG_FUEL_RATE: 7.5
-  response: 7E80562F45E0096
-- expected_values:
-    EVEREST_ENG_FUEL_RATE: 9.9
-  response: 7E80562F45E00C6
+    EVEREST_ENG_FUEL_RATE: 0
+  response: 7E80562F45E0000
 - expected_values:
     EVEREST_ENG_FUEL_RATE: 11.75
   response: 7E80562F45E00EB

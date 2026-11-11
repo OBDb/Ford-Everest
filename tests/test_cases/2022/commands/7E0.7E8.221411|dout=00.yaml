@@ -4,29 +4,8 @@ test_cases:
     EVEREST_VOLUME_FUEL_DES: 0
   response: '7E8056214110000'
 - expected_values:
-    EVEREST_VOLUME_FUEL_DES: 4.0625
-  response: '7E8056214110041'
-- expected_values:
-    EVEREST_VOLUME_FUEL_DES: 4.5
-  response: '7E8056214110048'
-- expected_values:
-    EVEREST_VOLUME_FUEL_DES: 23.3125
-  response: '7E8056214110175'
-- expected_values:
-    EVEREST_VOLUME_FUEL_DES: 32.1875
-  response: '7E8056214110203'
-- expected_values:
-    EVEREST_VOLUME_FUEL_DES: 50.5625
-  response: '7E8056214110329'
-- expected_values:
-    EVEREST_VOLUME_FUEL_DES: 52.125
-  response: '7E8056214110342'
-- expected_values:
-    EVEREST_VOLUME_FUEL_DES: 53.0625
-  response: '7E8056214110351'
-- expected_values:
-    EVEREST_VOLUME_FUEL_DES: 54.5
-  response: '7E8056214110368'
+    EVEREST_VOLUME_FUEL_DES: 29.0625
+  response: 7E80562141101D1
 - expected_values:
     EVEREST_VOLUME_FUEL_DES: 80.3125
   response: '7E8056214110505'

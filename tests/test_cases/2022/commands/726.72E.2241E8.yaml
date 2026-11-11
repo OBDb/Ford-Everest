@@ -4,6 +4,9 @@ test_cases:
     EVEREST_VEH_BAT_B_V: 14.2
   response: 72E046241E8A4
 - expected_values:
+    EVEREST_VEH_BAT_B_V: 14.25
+  response: 72E046241E8A5
+- expected_values:
     EVEREST_VEH_BAT_B_V: 14.3
   response: 72E046241E8A6
 - expected_values:

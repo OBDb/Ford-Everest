@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     EVEREST_GEAR: '6'
   response: 7E804621E1206
+- expected_values:
+    EVEREST_GEAR: '7'
+  response: 7E804621E1207
+- expected_values:
+    EVEREST_GEAR: '8'
+  response: 7E804621E1208

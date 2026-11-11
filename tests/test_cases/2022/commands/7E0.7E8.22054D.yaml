@@ -4,29 +4,8 @@ test_cases:
     EVEREST_LPFP_SENS_V: 2.35352
   response: 7E80562054D096A
 - expected_values:
-    EVEREST_LPFP_SENS_V: 2.3877
-  response: 7E80562054D098D
+    EVEREST_LPFP_SENS_V: 2.49512
+  response: 7E80562054D09FB
 - expected_values:
-    EVEREST_LPFP_SENS_V: 2.39746
-  response: 7E80562054D0997
-- expected_values:
-    EVEREST_LPFP_SENS_V: 2.46387
-  response: 7E80562054D09DB
-- expected_values:
-    EVEREST_LPFP_SENS_V: 2.46582
-  response: 7E80562054D09DD
-- expected_values:
-    EVEREST_LPFP_SENS_V: 2.46973
-  response: 7E80562054D09E1
-- expected_values:
-    EVEREST_LPFP_SENS_V: 2.49316
-  response: 7E80562054D09F9
-- expected_values:
-    EVEREST_LPFP_SENS_V: 2.51562
-  response: 7E80562054D0A10
-- expected_values:
-    EVEREST_LPFP_SENS_V: 2.5498
-  response: 7E80562054D0A33
-- expected_values:
-    EVEREST_LPFP_SENS_V: 2.5957
-  response: 7E80562054D0A62
+    EVEREST_LPFP_SENS_V: 2.50781
+  response: 7E80562054D0A08

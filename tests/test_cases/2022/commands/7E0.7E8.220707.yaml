@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     EVEREST_GRILL_SHUT_DC: 6.66667
   response: '7E80462070711'
+- expected_values:
+    EVEREST_GRILL_SHUT_DC: 27.84314
+  response: '7E80462070747'
+- expected_values:
+    EVEREST_GRILL_SHUT_DC: 54.90196
+  response: 7E8046207078C
+- expected_values:
+    EVEREST_GRILL_SHUT_DC: 89.80392
+  response: 7E804620707E5

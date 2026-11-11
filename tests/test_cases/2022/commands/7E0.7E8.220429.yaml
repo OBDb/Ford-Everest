@@ -4,23 +4,11 @@ test_cases:
     EVEREST_FUEL_T_7E0: 23.0625
   response: 7E80562042905C4
 - expected_values:
-    EVEREST_FUEL_T_7E0: 23.26562
-  response: 7E80562042905D1
-- expected_values:
-    EVEREST_FUEL_T_7E0: 23.46875
-  response: 7E80562042905DE
-- expected_values:
-    EVEREST_FUEL_T_7E0: 23.5625
-  response: 7E80562042905E4
-- expected_values:
-    EVEREST_FUEL_T_7E0: 23.67188
-  response: 7E80562042905EB
-- expected_values:
     EVEREST_FUEL_T_7E0: 23.85938
   response: 7E80562042905F7
 - expected_values:
     EVEREST_FUEL_T_7E0: 24.0625
   response: '7E8056204290604'
 - expected_values:
-    EVEREST_FUEL_T_7E0: 24.17188
-  response: 7E805620429060B
+    EVEREST_FUEL_T_7E0: 32.26562
+  response: '7E8056204290811'

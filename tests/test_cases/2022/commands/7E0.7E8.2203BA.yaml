@@ -4,29 +4,5 @@ test_cases:
     EVEREST_AAT_V: 2.6393
   response: 7E8056203BA021C
 - expected_values:
-    EVEREST_AAT_V: 2.80059
-  response: 7E8056203BA023D
-- expected_values:
-    EVEREST_AAT_V: 2.80547
-  response: 7E8056203BA023E
-- expected_values:
-    EVEREST_AAT_V: 2.8348
-  response: 7E8056203BA0244
-- expected_values:
-    EVEREST_AAT_V: 2.85924
-  response: 7E8056203BA0249
-- expected_values:
-    EVEREST_AAT_V: 2.86413
-  response: 7E8056203BA024A
-- expected_values:
-    EVEREST_AAT_V: 2.87879
-  response: 7E8056203BA024D
-- expected_values:
-    EVEREST_AAT_V: 2.88368
-  response: 7E8056203BA024E
-- expected_values:
-    EVEREST_AAT_V: 2.88856
-  response: 7E8056203BA024F
-- expected_values:
-    EVEREST_AAT_V: 2.89345
-  response: 7E8056203BA0250
+    EVEREST_AAT_V: 3.16227
+  response: 7E8056203BA0287

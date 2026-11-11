@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EVEREST_FUEL_RAIL_P_CTRL: 0
   response: 7E8046203C300
+- expected_values:
+    EVEREST_FUEL_RAIL_P_CTRL: 71.5
+  response: 7E8046203C38F
