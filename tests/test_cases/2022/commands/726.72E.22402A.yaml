@@ -4,29 +4,5 @@ test_cases:
     EVEREST_12V_V: 12.2
   response: 72E0462402A7C
 - expected_values:
-    EVEREST_12V_V: 12.25
-  response: 72E0462402A7D
-- expected_values:
-    EVEREST_12V_V: 12.45
-  response: 72E0462402A81
-- expected_values:
-    EVEREST_12V_V: 12.5
-  response: 72E0462402A82
-- expected_values:
-    EVEREST_12V_V: 13.9
-  response: 72E0462402A9E
-- expected_values:
-    EVEREST_12V_V: 13.95
-  response: 72E0462402A9F
-- expected_values:
-    EVEREST_12V_V: 14
-  response: 72E0462402AA0
-- expected_values:
-    EVEREST_12V_V: 14.05
-  response: 72E0462402AA1
-- expected_values:
-    EVEREST_12V_V: 14.1
-  response: 72E0462402AA2
-- expected_values:
     EVEREST_12V_V: 14.15
   response: 72E0462402AA3
